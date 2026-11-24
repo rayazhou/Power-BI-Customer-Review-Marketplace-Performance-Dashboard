@@ -1,0 +1,726 @@
+Email_ID,Date,Category,Subject,Handled_By,Action_Taken,Status,Resolution_Hours,Is_B2B_B2C,Year_Month
+EML-0001,2026-01-25,B2B Corporate,B2B Corporate Bulk TV Procurement,Chandni (User),Enterprise quotation and GST billing support,Resolved,12,Yes,2026-01
+EML-0002,2026-09-28,B2B Corporate,B2B Institutional Display Inquiry,Chandni (User),Commercial warranty terms and AMC pricing,Resolved,8,Yes,2026-09
+EML-0003,2025-12-25,B2B Corporate,B2B Hotel Chain TV Setup Inquiry,Chandni (User),Hospitality mode firmware inquiry,Resolved,18,Yes,2025-12
+EML-0004,2025-11-04,B2B Corporate,B2B Office Conference TV Supply,Chandni (User),Direct purchase order confirmation,Resolved,4,Yes,2025-11
+EML-0005,2026-05-17,B2B Corporate,B2B Retail Partner Bulk Stocking,Chandni (User),Distributor stock availability query,Resolved,8,Yes,2026-05
+EML-0006,2026-01-10,B2B Corporate,B2B Commercial Display Demo Request,Chandni (User),Onsite client demo coordinated,Resolved,18,Yes,2026-01
+EML-0007,2026-01-22,B2B Corporate,B2B School / University AV Setup,Chandni (User),Educational discount documentation,Resolved,8,Yes,2026-01
+EML-0008,2026-03-13,B2B Corporate,B2B Real Estate Builder Supply Order,Chandni (User),Apartment bulk delivery schedule,Resolved,18,Yes,2026-03
+EML-0009,2026-06-29,B2B Corporate,B2B Hospital Patient Room TV Supply,Chandni (User),Sanitized packaging and delivery SLA,Resolved,12,Yes,2026-06
+EML-0010,2026-08-04,B2B Corporate,B2B IT Firm Cafeteria Displays,Chandni (User),Bulk delivery & mounting verification,Resolved,4,Yes,2026-08
+EML-0011,2026-04-24,B2B Corporate,B2B Reseller Portal Registration,Chandni (User),Channel partner GST validation,Resolved,12,Yes,2026-04
+EML-0012,2026-07-18,B2B Corporate,B2B Export Inquiry Middle East,Chandni (User),Referred to international sales desk,Closed,2,Yes,2026-07
+EML-0013,2026-08-24,B2B Corporate,B2B Bulk Warranty Registration,Chandni (User),Uploaded 45 serial numbers to warranty system,Resolved,24,Yes,2026-08
+EML-0014,2026-06-24,B2B Corporate,B2B Co-working Space Media Units,Chandni (User),Installation batch schedule confirmed,Resolved,12,Yes,2026-06
+EML-0015,2026-09-24,B2B Corporate,B2B Government GeM Portal Query,Chandni (User),Compliance certificates forwarded,Resolved,2,Yes,2026-09
+EML-0016,2025-12-12,B2C Direct Consumer,B2C Direct Consumer Escalation - Order Fulfillment,Chandni (User),Flipkart order tracking and fast-track delivery,Resolved,4,Yes,2025-12
+EML-0017,2026-04-20,B2C Direct Consumer,B2C Brand Warranty Claim Direct Registration,Chandni (User),Extended 2-year panel warranty registered,Resolved,24,Yes,2026-04
+EML-0018,2026-04-07,B2C Direct Consumer,B2C TV Screen Replacement Request,Chandni (User),Insurance claim approved and replacement assigned,Resolved,24,Yes,2026-04
+EML-0019,2025-12-04,B2C Direct Consumer,B2C Consumer Forum Query Pre-resolution,Chandni (User),Immediate customer callback and replacement unit dispatched,Resolved,12,Yes,2025-12
+EML-0020,2025-12-08,B2C Direct Consumer,B2C Direct Gift Voucher Non-receipt Support,Chandni (User),Coupon re-sent to customer email and SMS,Resolved,12,Yes,2025-12
+EML-0021,2026-08-30,B2C Direct Consumer,B2C Exchange Offer Discount Dispute,Chandni (User),Difference amount credited as voucher,Resolved,2,Yes,2026-08
+EML-0022,2026-02-22,B2C Direct Consumer,B2C Customer Happiness Feedback Email,Chandni (User),Thanked customer and requested Flipkart 5-star review,Resolved,18,Yes,2026-02
+EML-0023,2026-08-17,B2C Direct Consumer,B2C Installation Rescheduling Direct Email,Chandni (User),Technician visit locked for Sunday 11 AM,Resolved,18,Yes,2026-08
+EML-0024,2026-09-08,B2C Direct Consumer,B2C Remote Replacement Direct Courier,Chandni (User),Bluedart tracking number shared with customer,Resolved,4,Yes,2026-09
+EML-0025,2026-11-06,B2C Direct Consumer,B2C Product Feature Inquiry - Dolby Vision,Chandni (User),Picture mode optimization guide PDF sent,Resolved,2,Yes,2026-11
+EML-0026,2026-08-26,Service Escalation,Service & Installation Escalation #1000,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-08
+EML-0027,2026-06-13,Technical Support,Product Technical Assistance (Sound/Picture) #1001,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-06
+EML-0028,2026-07-06,Remote Support,Remote Control Inquiry & Replacement #1002,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-07
+EML-0029,2025-12-06,Review Operations,Flipkart / Amazon Review Verification #1003,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2025-12
+EML-0030,2026-09-19,Voucher Operations,Gift Card Voucher Code Sharing #1004,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-09
+EML-0031,2026-07-05,Installation Support,Wall Mount Bracket Fitting Request #1005,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-07
+EML-0032,2025-11-18,General Inquiry,Customer Callback Scheduling #1006,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-11
+EML-0033,2026-01-03,Technical Support,TV Firmware & Software Update Assistance #1007,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-01
+EML-0034,2026-10-09,Service Escalation,Service & Installation Escalation #1008,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-10
+EML-0035,2025-10-16,Technical Support,Product Technical Assistance (Sound/Picture) #1009,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-10
+EML-0036,2026-11-08,Remote Support,Remote Control Inquiry & Replacement #1010,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-11
+EML-0037,2026-01-28,Review Operations,Flipkart / Amazon Review Verification #1011,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-01
+EML-0038,2026-04-23,Voucher Operations,Gift Card Voucher Code Sharing #1012,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-04
+EML-0039,2026-05-20,Installation Support,Wall Mount Bracket Fitting Request #1013,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-05
+EML-0040,2026-05-04,General Inquiry,Customer Callback Scheduling #1014,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-05
+EML-0041,2026-07-11,Technical Support,TV Firmware & Software Update Assistance #1015,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-07
+EML-0042,2026-08-14,Service Escalation,Service & Installation Escalation #1016,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-08
+EML-0043,2026-05-17,Technical Support,Product Technical Assistance (Sound/Picture) #1017,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-05
+EML-0044,2026-04-22,Remote Support,Remote Control Inquiry & Replacement #1018,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-04
+EML-0045,2026-05-10,Review Operations,Flipkart / Amazon Review Verification #1019,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-05
+EML-0046,2026-09-17,Voucher Operations,Gift Card Voucher Code Sharing #1020,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-09
+EML-0047,2025-12-06,Installation Support,Wall Mount Bracket Fitting Request #1021,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0048,2026-05-19,General Inquiry,Customer Callback Scheduling #1022,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-05
+EML-0049,2025-11-24,Technical Support,TV Firmware & Software Update Assistance #1023,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0050,2025-10-29,Service Escalation,Service & Installation Escalation #1024,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2025-10
+EML-0051,2025-12-18,Technical Support,Product Technical Assistance (Sound/Picture) #1025,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2025-12
+EML-0052,2026-09-06,Remote Support,Remote Control Inquiry & Replacement #1026,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-09
+EML-0053,2026-09-23,Review Operations,Flipkart / Amazon Review Verification #1027,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-09
+EML-0054,2026-02-27,Voucher Operations,Gift Card Voucher Code Sharing #1028,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-02
+EML-0055,2026-03-02,Installation Support,Wall Mount Bracket Fitting Request #1029,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-03
+EML-0056,2026-01-03,General Inquiry,Customer Callback Scheduling #1030,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-01
+EML-0057,2026-07-30,Technical Support,TV Firmware & Software Update Assistance #1031,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-07
+EML-0058,2026-07-02,Service Escalation,Service & Installation Escalation #1032,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-07
+EML-0059,2026-06-02,Technical Support,Product Technical Assistance (Sound/Picture) #1033,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-06
+EML-0060,2025-11-24,Remote Support,Remote Control Inquiry & Replacement #1034,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-11
+EML-0061,2026-05-03,Review Operations,Flipkart / Amazon Review Verification #1035,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-05
+EML-0062,2025-11-16,Voucher Operations,Gift Card Voucher Code Sharing #1036,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-11
+EML-0063,2025-12-15,Installation Support,Wall Mount Bracket Fitting Request #1037,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-12
+EML-0064,2026-01-21,General Inquiry,Customer Callback Scheduling #1038,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-01
+EML-0065,2025-11-18,Technical Support,TV Firmware & Software Update Assistance #1039,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0066,2026-05-29,Service Escalation,Service & Installation Escalation #1040,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-05
+EML-0067,2026-02-22,Technical Support,Product Technical Assistance (Sound/Picture) #1041,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-02
+EML-0068,2025-10-19,Remote Support,Remote Control Inquiry & Replacement #1042,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2025-10
+EML-0069,2026-06-26,Review Operations,Flipkart / Amazon Review Verification #1043,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-06
+EML-0070,2026-10-08,Voucher Operations,Gift Card Voucher Code Sharing #1044,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-10
+EML-0071,2026-11-11,Installation Support,Wall Mount Bracket Fitting Request #1045,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-11
+EML-0072,2025-10-29,General Inquiry,Customer Callback Scheduling #1046,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-10
+EML-0073,2025-11-25,Technical Support,TV Firmware & Software Update Assistance #1047,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0074,2026-04-11,Service Escalation,Service & Installation Escalation #1048,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-04
+EML-0075,2026-10-01,Technical Support,Product Technical Assistance (Sound/Picture) #1049,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-10
+EML-0076,2026-06-12,Remote Support,Remote Control Inquiry & Replacement #1050,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-06
+EML-0077,2026-01-18,Review Operations,Flipkart / Amazon Review Verification #1051,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-01
+EML-0078,2026-06-02,Voucher Operations,Gift Card Voucher Code Sharing #1052,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-06
+EML-0079,2026-03-06,Installation Support,Wall Mount Bracket Fitting Request #1053,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-03
+EML-0080,2025-11-12,General Inquiry,Customer Callback Scheduling #1054,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-11
+EML-0081,2026-03-23,Technical Support,TV Firmware & Software Update Assistance #1055,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-03
+EML-0082,2026-04-19,Service Escalation,Service & Installation Escalation #1056,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-04
+EML-0083,2026-01-08,Technical Support,Product Technical Assistance (Sound/Picture) #1057,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-01
+EML-0084,2026-04-02,Remote Support,Remote Control Inquiry & Replacement #1058,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-04
+EML-0085,2025-12-15,Review Operations,Flipkart / Amazon Review Verification #1059,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2025-12
+EML-0086,2026-02-25,Voucher Operations,Gift Card Voucher Code Sharing #1060,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-02
+EML-0087,2026-09-10,Installation Support,Wall Mount Bracket Fitting Request #1061,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-09
+EML-0088,2026-09-27,General Inquiry,Customer Callback Scheduling #1062,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-09
+EML-0089,2026-06-02,Technical Support,TV Firmware & Software Update Assistance #1063,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-06
+EML-0090,2026-05-27,Service Escalation,Service & Installation Escalation #1064,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-05
+EML-0091,2026-10-26,Technical Support,Product Technical Assistance (Sound/Picture) #1065,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-10
+EML-0092,2026-02-12,Remote Support,Remote Control Inquiry & Replacement #1066,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-02
+EML-0093,2026-06-04,Review Operations,Flipkart / Amazon Review Verification #1067,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-06
+EML-0094,2026-10-08,Voucher Operations,Gift Card Voucher Code Sharing #1068,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-10
+EML-0095,2026-02-28,Installation Support,Wall Mount Bracket Fitting Request #1069,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-02
+EML-0096,2026-03-28,General Inquiry,Customer Callback Scheduling #1070,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-03
+EML-0097,2026-08-17,Technical Support,TV Firmware & Software Update Assistance #1071,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-08
+EML-0098,2026-04-04,Service Escalation,Service & Installation Escalation #1072,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-04
+EML-0099,2026-08-25,Technical Support,Product Technical Assistance (Sound/Picture) #1073,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-08
+EML-0100,2026-03-23,Remote Support,Remote Control Inquiry & Replacement #1074,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-03
+EML-0101,2026-04-12,Review Operations,Flipkart / Amazon Review Verification #1075,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-04
+EML-0102,2026-08-28,Voucher Operations,Gift Card Voucher Code Sharing #1076,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-08
+EML-0103,2025-12-05,Installation Support,Wall Mount Bracket Fitting Request #1077,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0104,2026-08-05,General Inquiry,Customer Callback Scheduling #1078,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-08
+EML-0105,2026-11-05,Technical Support,TV Firmware & Software Update Assistance #1079,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-11
+EML-0106,2026-01-23,Service Escalation,Service & Installation Escalation #1080,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-01
+EML-0107,2026-01-03,Technical Support,Product Technical Assistance (Sound/Picture) #1081,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-01
+EML-0108,2026-02-04,Remote Support,Remote Control Inquiry & Replacement #1082,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-02
+EML-0109,2026-02-21,Review Operations,Flipkart / Amazon Review Verification #1083,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-02
+EML-0110,2026-09-22,Voucher Operations,Gift Card Voucher Code Sharing #1084,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-09
+EML-0111,2026-05-26,Installation Support,Wall Mount Bracket Fitting Request #1085,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-05
+EML-0112,2026-11-03,General Inquiry,Customer Callback Scheduling #1086,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-11
+EML-0113,2026-02-17,Technical Support,TV Firmware & Software Update Assistance #1087,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-02
+EML-0114,2025-12-06,Service Escalation,Service & Installation Escalation #1088,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2025-12
+EML-0115,2026-05-20,Technical Support,Product Technical Assistance (Sound/Picture) #1089,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-05
+EML-0116,2026-06-18,Remote Support,Remote Control Inquiry & Replacement #1090,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-06
+EML-0117,2026-05-05,Review Operations,Flipkart / Amazon Review Verification #1091,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-05
+EML-0118,2026-11-19,Voucher Operations,Gift Card Voucher Code Sharing #1092,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-11
+EML-0119,2026-08-04,Installation Support,Wall Mount Bracket Fitting Request #1093,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-08
+EML-0120,2026-10-21,General Inquiry,Customer Callback Scheduling #1094,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-10
+EML-0121,2026-04-30,Technical Support,TV Firmware & Software Update Assistance #1095,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-04
+EML-0122,2026-11-13,Service Escalation,Service & Installation Escalation #1096,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-11
+EML-0123,2026-06-11,Technical Support,Product Technical Assistance (Sound/Picture) #1097,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-06
+EML-0124,2026-05-03,Remote Support,Remote Control Inquiry & Replacement #1098,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-05
+EML-0125,2026-09-05,Review Operations,Flipkart / Amazon Review Verification #1099,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-09
+EML-0126,2026-06-30,Voucher Operations,Gift Card Voucher Code Sharing #1100,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-06
+EML-0127,2026-09-25,Installation Support,Wall Mount Bracket Fitting Request #1101,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-09
+EML-0128,2026-03-10,General Inquiry,Customer Callback Scheduling #1102,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-03
+EML-0129,2026-08-18,Technical Support,TV Firmware & Software Update Assistance #1103,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-08
+EML-0130,2026-02-19,Service Escalation,Service & Installation Escalation #1104,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-02
+EML-0131,2026-09-17,Technical Support,Product Technical Assistance (Sound/Picture) #1105,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-09
+EML-0132,2026-07-08,Remote Support,Remote Control Inquiry & Replacement #1106,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-07
+EML-0133,2026-03-14,Review Operations,Flipkart / Amazon Review Verification #1107,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-03
+EML-0134,2026-08-08,Voucher Operations,Gift Card Voucher Code Sharing #1108,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-08
+EML-0135,2026-07-04,Installation Support,Wall Mount Bracket Fitting Request #1109,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-07
+EML-0136,2026-02-03,General Inquiry,Customer Callback Scheduling #1110,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-02
+EML-0137,2025-12-13,Technical Support,TV Firmware & Software Update Assistance #1111,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-12
+EML-0138,2025-10-16,Service Escalation,Service & Installation Escalation #1112,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2025-10
+EML-0139,2026-08-14,Technical Support,Product Technical Assistance (Sound/Picture) #1113,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-08
+EML-0140,2026-03-03,Remote Support,Remote Control Inquiry & Replacement #1114,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-03
+EML-0141,2025-11-20,Review Operations,Flipkart / Amazon Review Verification #1115,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-11
+EML-0142,2025-10-23,Voucher Operations,Gift Card Voucher Code Sharing #1116,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-10
+EML-0143,2026-01-21,Installation Support,Wall Mount Bracket Fitting Request #1117,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-01
+EML-0144,2026-08-14,General Inquiry,Customer Callback Scheduling #1118,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-08
+EML-0145,2026-03-15,Technical Support,TV Firmware & Software Update Assistance #1119,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-03
+EML-0146,2026-02-11,Service Escalation,Service & Installation Escalation #1120,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-02
+EML-0147,2026-02-07,Technical Support,Product Technical Assistance (Sound/Picture) #1121,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-02
+EML-0148,2026-02-04,Remote Support,Remote Control Inquiry & Replacement #1122,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-02
+EML-0149,2026-01-26,Review Operations,Flipkart / Amazon Review Verification #1123,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-01
+EML-0150,2026-05-29,Voucher Operations,Gift Card Voucher Code Sharing #1124,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-05
+EML-0151,2026-01-21,Installation Support,Wall Mount Bracket Fitting Request #1125,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-01
+EML-0152,2026-09-28,General Inquiry,Customer Callback Scheduling #1126,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-09
+EML-0153,2026-11-02,Technical Support,TV Firmware & Software Update Assistance #1127,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-11
+EML-0154,2026-09-17,Service Escalation,Service & Installation Escalation #1128,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-09
+EML-0155,2026-08-20,Technical Support,Product Technical Assistance (Sound/Picture) #1129,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-08
+EML-0156,2026-05-10,Remote Support,Remote Control Inquiry & Replacement #1130,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-05
+EML-0157,2026-04-01,Review Operations,Flipkart / Amazon Review Verification #1131,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-04
+EML-0158,2025-12-21,Voucher Operations,Gift Card Voucher Code Sharing #1132,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-12
+EML-0159,2026-11-16,Installation Support,Wall Mount Bracket Fitting Request #1133,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-11
+EML-0160,2026-08-14,General Inquiry,Customer Callback Scheduling #1134,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-08
+EML-0161,2026-04-27,Technical Support,TV Firmware & Software Update Assistance #1135,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-04
+EML-0162,2026-02-19,Service Escalation,Service & Installation Escalation #1136,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-02
+EML-0163,2026-04-08,Technical Support,Product Technical Assistance (Sound/Picture) #1137,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-04
+EML-0164,2026-10-20,Remote Support,Remote Control Inquiry & Replacement #1138,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-10
+EML-0165,2026-10-24,Review Operations,Flipkart / Amazon Review Verification #1139,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-10
+EML-0166,2026-06-09,Voucher Operations,Gift Card Voucher Code Sharing #1140,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-06
+EML-0167,2025-11-21,Installation Support,Wall Mount Bracket Fitting Request #1141,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-11
+EML-0168,2026-10-14,General Inquiry,Customer Callback Scheduling #1142,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-10
+EML-0169,2026-07-05,Technical Support,TV Firmware & Software Update Assistance #1143,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-07
+EML-0170,2025-11-10,Service Escalation,Service & Installation Escalation #1144,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2025-11
+EML-0171,2026-07-18,Technical Support,Product Technical Assistance (Sound/Picture) #1145,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-07
+EML-0172,2026-01-19,Remote Support,Remote Control Inquiry & Replacement #1146,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-01
+EML-0173,2026-08-27,Review Operations,Flipkart / Amazon Review Verification #1147,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-08
+EML-0174,2025-10-18,Voucher Operations,Gift Card Voucher Code Sharing #1148,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-10
+EML-0175,2026-04-24,Installation Support,Wall Mount Bracket Fitting Request #1149,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-04
+EML-0176,2025-10-31,General Inquiry,Customer Callback Scheduling #1150,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-10
+EML-0177,2025-11-29,Technical Support,TV Firmware & Software Update Assistance #1151,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0178,2025-10-20,Service Escalation,Service & Installation Escalation #1152,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2025-10
+EML-0179,2026-10-29,Technical Support,Product Technical Assistance (Sound/Picture) #1153,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-10
+EML-0180,2025-11-20,Remote Support,Remote Control Inquiry & Replacement #1154,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2025-11
+EML-0181,2026-08-12,Review Operations,Flipkart / Amazon Review Verification #1155,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-08
+EML-0182,2026-01-17,Voucher Operations,Gift Card Voucher Code Sharing #1156,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-01
+EML-0183,2026-04-20,Installation Support,Wall Mount Bracket Fitting Request #1157,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-04
+EML-0184,2026-02-07,General Inquiry,Customer Callback Scheduling #1158,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-02
+EML-0185,2026-06-24,Technical Support,TV Firmware & Software Update Assistance #1159,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-06
+EML-0186,2026-03-24,Service Escalation,Service & Installation Escalation #1160,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-03
+EML-0187,2026-09-02,Technical Support,Product Technical Assistance (Sound/Picture) #1161,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-09
+EML-0188,2026-07-22,Remote Support,Remote Control Inquiry & Replacement #1162,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-07
+EML-0189,2026-05-25,Review Operations,Flipkart / Amazon Review Verification #1163,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-05
+EML-0190,2025-12-11,Voucher Operations,Gift Card Voucher Code Sharing #1164,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-12
+EML-0191,2026-10-09,Installation Support,Wall Mount Bracket Fitting Request #1165,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-10
+EML-0192,2026-07-21,General Inquiry,Customer Callback Scheduling #1166,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-07
+EML-0193,2026-07-29,Technical Support,TV Firmware & Software Update Assistance #1167,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-07
+EML-0194,2026-09-21,Service Escalation,Service & Installation Escalation #1168,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-09
+EML-0195,2026-02-18,Technical Support,Product Technical Assistance (Sound/Picture) #1169,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-02
+EML-0196,2026-11-04,Remote Support,Remote Control Inquiry & Replacement #1170,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-11
+EML-0197,2026-07-14,Review Operations,Flipkart / Amazon Review Verification #1171,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-07
+EML-0198,2026-11-11,Voucher Operations,Gift Card Voucher Code Sharing #1172,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-11
+EML-0199,2026-06-17,Installation Support,Wall Mount Bracket Fitting Request #1173,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-06
+EML-0200,2026-04-02,General Inquiry,Customer Callback Scheduling #1174,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-04
+EML-0201,2025-11-09,Technical Support,TV Firmware & Software Update Assistance #1175,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2025-11
+EML-0202,2026-08-16,Service Escalation,Service & Installation Escalation #1176,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-08
+EML-0203,2025-10-27,Technical Support,Product Technical Assistance (Sound/Picture) #1177,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-10
+EML-0204,2026-11-09,Remote Support,Remote Control Inquiry & Replacement #1178,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-11
+EML-0205,2025-11-19,Review Operations,Flipkart / Amazon Review Verification #1179,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2025-11
+EML-0206,2025-11-03,Voucher Operations,Gift Card Voucher Code Sharing #1180,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-11
+EML-0207,2026-07-05,Installation Support,Wall Mount Bracket Fitting Request #1181,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-07
+EML-0208,2026-11-18,General Inquiry,Customer Callback Scheduling #1182,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-11
+EML-0209,2026-10-20,Technical Support,TV Firmware & Software Update Assistance #1183,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-10
+EML-0210,2026-03-06,Service Escalation,Service & Installation Escalation #1184,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-03
+EML-0211,2026-10-03,Technical Support,Product Technical Assistance (Sound/Picture) #1185,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-10
+EML-0212,2026-07-29,Remote Support,Remote Control Inquiry & Replacement #1186,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-07
+EML-0213,2026-09-21,Review Operations,Flipkart / Amazon Review Verification #1187,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-09
+EML-0214,2026-03-16,Voucher Operations,Gift Card Voucher Code Sharing #1188,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-03
+EML-0215,2025-12-16,Installation Support,Wall Mount Bracket Fitting Request #1189,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0216,2026-02-16,General Inquiry,Customer Callback Scheduling #1190,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-02
+EML-0217,2026-08-24,Technical Support,TV Firmware & Software Update Assistance #1191,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-08
+EML-0218,2026-09-21,Service Escalation,Service & Installation Escalation #1192,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-09
+EML-0219,2026-04-12,Technical Support,Product Technical Assistance (Sound/Picture) #1193,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-04
+EML-0220,2026-09-05,Remote Support,Remote Control Inquiry & Replacement #1194,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-09
+EML-0221,2025-12-07,Review Operations,Flipkart / Amazon Review Verification #1195,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-12
+EML-0222,2026-01-23,Voucher Operations,Gift Card Voucher Code Sharing #1196,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-01
+EML-0223,2026-07-05,Installation Support,Wall Mount Bracket Fitting Request #1197,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0224,2025-12-13,General Inquiry,Customer Callback Scheduling #1198,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-12
+EML-0225,2026-01-25,Technical Support,TV Firmware & Software Update Assistance #1199,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-01
+EML-0226,2026-10-14,Service Escalation,Service & Installation Escalation #1200,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-10
+EML-0227,2026-10-21,Technical Support,Product Technical Assistance (Sound/Picture) #1201,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-10
+EML-0228,2025-11-30,Remote Support,Remote Control Inquiry & Replacement #1202,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-11
+EML-0229,2026-08-21,Review Operations,Flipkart / Amazon Review Verification #1203,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-08
+EML-0230,2026-10-19,Voucher Operations,Gift Card Voucher Code Sharing #1204,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-10
+EML-0231,2026-03-21,Installation Support,Wall Mount Bracket Fitting Request #1205,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-03
+EML-0232,2026-03-08,General Inquiry,Customer Callback Scheduling #1206,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-03
+EML-0233,2026-07-16,Technical Support,TV Firmware & Software Update Assistance #1207,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-07
+EML-0234,2026-09-25,Service Escalation,Service & Installation Escalation #1208,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-09
+EML-0235,2026-02-08,Technical Support,Product Technical Assistance (Sound/Picture) #1209,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-02
+EML-0236,2026-07-20,Remote Support,Remote Control Inquiry & Replacement #1210,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-07
+EML-0237,2026-11-11,Review Operations,Flipkart / Amazon Review Verification #1211,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-11
+EML-0238,2026-02-20,Voucher Operations,Gift Card Voucher Code Sharing #1212,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-02
+EML-0239,2026-02-13,Installation Support,Wall Mount Bracket Fitting Request #1213,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-02
+EML-0240,2026-06-10,General Inquiry,Customer Callback Scheduling #1214,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-06
+EML-0241,2026-01-18,Technical Support,TV Firmware & Software Update Assistance #1215,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-01
+EML-0242,2026-02-09,Service Escalation,Service & Installation Escalation #1216,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-02
+EML-0243,2026-01-11,Technical Support,Product Technical Assistance (Sound/Picture) #1217,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-01
+EML-0244,2026-10-22,Remote Support,Remote Control Inquiry & Replacement #1218,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-10
+EML-0245,2026-07-13,Review Operations,Flipkart / Amazon Review Verification #1219,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-07
+EML-0246,2026-04-24,Voucher Operations,Gift Card Voucher Code Sharing #1220,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-04
+EML-0247,2025-12-22,Installation Support,Wall Mount Bracket Fitting Request #1221,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0248,2026-09-28,General Inquiry,Customer Callback Scheduling #1222,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-09
+EML-0249,2025-12-29,Technical Support,TV Firmware & Software Update Assistance #1223,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2025-12
+EML-0250,2026-03-07,Service Escalation,Service & Installation Escalation #1224,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-03
+EML-0251,2026-01-08,Technical Support,Product Technical Assistance (Sound/Picture) #1225,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-01
+EML-0252,2026-07-26,Remote Support,Remote Control Inquiry & Replacement #1226,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-07
+EML-0253,2026-05-22,Review Operations,Flipkart / Amazon Review Verification #1227,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-05
+EML-0254,2025-11-30,Voucher Operations,Gift Card Voucher Code Sharing #1228,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-11
+EML-0255,2026-01-16,Installation Support,Wall Mount Bracket Fitting Request #1229,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-01
+EML-0256,2026-05-06,General Inquiry,Customer Callback Scheduling #1230,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-05
+EML-0257,2026-09-20,Technical Support,TV Firmware & Software Update Assistance #1231,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-09
+EML-0258,2026-01-22,Service Escalation,Service & Installation Escalation #1232,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-01
+EML-0259,2026-06-25,Technical Support,Product Technical Assistance (Sound/Picture) #1233,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-06
+EML-0260,2026-10-06,Remote Support,Remote Control Inquiry & Replacement #1234,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-10
+EML-0261,2026-06-21,Review Operations,Flipkart / Amazon Review Verification #1235,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-06
+EML-0262,2026-06-17,Voucher Operations,Gift Card Voucher Code Sharing #1236,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-06
+EML-0263,2026-01-22,Installation Support,Wall Mount Bracket Fitting Request #1237,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-01
+EML-0264,2026-04-12,General Inquiry,Customer Callback Scheduling #1238,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-04
+EML-0265,2026-11-12,Technical Support,TV Firmware & Software Update Assistance #1239,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-11
+EML-0266,2026-03-10,Service Escalation,Service & Installation Escalation #1240,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-03
+EML-0267,2026-01-18,Technical Support,Product Technical Assistance (Sound/Picture) #1241,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-01
+EML-0268,2026-09-04,Remote Support,Remote Control Inquiry & Replacement #1242,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-09
+EML-0269,2025-10-18,Review Operations,Flipkart / Amazon Review Verification #1243,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-10
+EML-0270,2026-06-29,Voucher Operations,Gift Card Voucher Code Sharing #1244,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-06
+EML-0271,2026-11-02,Installation Support,Wall Mount Bracket Fitting Request #1245,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-11
+EML-0272,2026-09-19,General Inquiry,Customer Callback Scheduling #1246,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-09
+EML-0273,2026-03-26,Technical Support,TV Firmware & Software Update Assistance #1247,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-03
+EML-0274,2026-04-11,Service Escalation,Service & Installation Escalation #1248,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-04
+EML-0275,2026-01-23,Technical Support,Product Technical Assistance (Sound/Picture) #1249,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-01
+EML-0276,2025-12-18,Remote Support,Remote Control Inquiry & Replacement #1250,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2025-12
+EML-0277,2026-03-31,Review Operations,Flipkart / Amazon Review Verification #1251,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-03
+EML-0278,2025-11-26,Voucher Operations,Gift Card Voucher Code Sharing #1252,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-11
+EML-0279,2026-11-15,Installation Support,Wall Mount Bracket Fitting Request #1253,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-11
+EML-0280,2026-08-12,General Inquiry,Customer Callback Scheduling #1254,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-08
+EML-0281,2026-06-24,Technical Support,TV Firmware & Software Update Assistance #1255,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-06
+EML-0282,2026-06-13,Service Escalation,Service & Installation Escalation #1256,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-06
+EML-0283,2026-05-17,Technical Support,Product Technical Assistance (Sound/Picture) #1257,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-05
+EML-0284,2026-01-12,Remote Support,Remote Control Inquiry & Replacement #1258,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-01
+EML-0285,2026-01-12,Review Operations,Flipkart / Amazon Review Verification #1259,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-01
+EML-0286,2026-02-06,Voucher Operations,Gift Card Voucher Code Sharing #1260,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-02
+EML-0287,2026-11-09,Installation Support,Wall Mount Bracket Fitting Request #1261,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-11
+EML-0288,2026-02-05,General Inquiry,Customer Callback Scheduling #1262,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-02
+EML-0289,2025-12-28,Technical Support,TV Firmware & Software Update Assistance #1263,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-12
+EML-0290,2026-10-25,Service Escalation,Service & Installation Escalation #1264,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-10
+EML-0291,2026-05-19,Technical Support,Product Technical Assistance (Sound/Picture) #1265,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-05
+EML-0292,2026-06-20,Remote Support,Remote Control Inquiry & Replacement #1266,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-06
+EML-0293,2026-10-06,Review Operations,Flipkart / Amazon Review Verification #1267,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-10
+EML-0294,2026-04-24,Voucher Operations,Gift Card Voucher Code Sharing #1268,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-04
+EML-0295,2026-04-09,Installation Support,Wall Mount Bracket Fitting Request #1269,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-04
+EML-0296,2025-11-19,General Inquiry,Customer Callback Scheduling #1270,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-11
+EML-0297,2026-01-18,Technical Support,TV Firmware & Software Update Assistance #1271,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-01
+EML-0298,2026-04-22,Service Escalation,Service & Installation Escalation #1272,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-04
+EML-0299,2025-11-20,Technical Support,Product Technical Assistance (Sound/Picture) #1273,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2025-11
+EML-0300,2026-04-15,Remote Support,Remote Control Inquiry & Replacement #1274,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-04
+EML-0301,2026-07-20,Review Operations,Flipkart / Amazon Review Verification #1275,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-07
+EML-0302,2026-10-04,Voucher Operations,Gift Card Voucher Code Sharing #1276,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-10
+EML-0303,2026-07-27,Installation Support,Wall Mount Bracket Fitting Request #1277,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0304,2026-10-18,General Inquiry,Customer Callback Scheduling #1278,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-10
+EML-0305,2026-01-06,Technical Support,TV Firmware & Software Update Assistance #1279,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-01
+EML-0306,2026-09-21,Service Escalation,Service & Installation Escalation #1280,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-09
+EML-0307,2026-04-19,Technical Support,Product Technical Assistance (Sound/Picture) #1281,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-04
+EML-0308,2026-04-09,Remote Support,Remote Control Inquiry & Replacement #1282,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-04
+EML-0309,2026-06-04,Review Operations,Flipkart / Amazon Review Verification #1283,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-06
+EML-0310,2025-12-29,Voucher Operations,Gift Card Voucher Code Sharing #1284,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-12
+EML-0311,2026-07-25,Installation Support,Wall Mount Bracket Fitting Request #1285,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-07
+EML-0312,2026-05-25,General Inquiry,Customer Callback Scheduling #1286,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-05
+EML-0313,2026-10-16,Technical Support,TV Firmware & Software Update Assistance #1287,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-10
+EML-0314,2025-12-22,Service Escalation,Service & Installation Escalation #1288,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2025-12
+EML-0315,2026-11-14,Technical Support,Product Technical Assistance (Sound/Picture) #1289,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-11
+EML-0316,2026-10-28,Remote Support,Remote Control Inquiry & Replacement #1290,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-10
+EML-0317,2025-12-06,Review Operations,Flipkart / Amazon Review Verification #1291,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-12
+EML-0318,2026-03-07,Voucher Operations,Gift Card Voucher Code Sharing #1292,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-03
+EML-0319,2025-11-22,Installation Support,Wall Mount Bracket Fitting Request #1293,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-11
+EML-0320,2026-04-13,General Inquiry,Customer Callback Scheduling #1294,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-04
+EML-0321,2026-04-18,Technical Support,TV Firmware & Software Update Assistance #1295,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-04
+EML-0322,2026-11-16,Service Escalation,Service & Installation Escalation #1296,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-11
+EML-0323,2026-02-13,Technical Support,Product Technical Assistance (Sound/Picture) #1297,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-02
+EML-0324,2026-03-26,Remote Support,Remote Control Inquiry & Replacement #1298,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-03
+EML-0325,2026-05-23,Review Operations,Flipkart / Amazon Review Verification #1299,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-05
+EML-0326,2026-09-10,Voucher Operations,Gift Card Voucher Code Sharing #1300,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-09
+EML-0327,2026-06-10,Installation Support,Wall Mount Bracket Fitting Request #1301,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-06
+EML-0328,2025-12-27,General Inquiry,Customer Callback Scheduling #1302,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-12
+EML-0329,2026-11-19,Technical Support,TV Firmware & Software Update Assistance #1303,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-11
+EML-0330,2026-06-01,Service Escalation,Service & Installation Escalation #1304,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-06
+EML-0331,2026-04-06,Technical Support,Product Technical Assistance (Sound/Picture) #1305,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-04
+EML-0332,2026-03-31,Remote Support,Remote Control Inquiry & Replacement #1306,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-03
+EML-0333,2026-11-11,Review Operations,Flipkart / Amazon Review Verification #1307,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-11
+EML-0334,2026-07-24,Voucher Operations,Gift Card Voucher Code Sharing #1308,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-07
+EML-0335,2026-04-26,Installation Support,Wall Mount Bracket Fitting Request #1309,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-04
+EML-0336,2025-11-12,General Inquiry,Customer Callback Scheduling #1310,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-11
+EML-0337,2026-09-18,Technical Support,TV Firmware & Software Update Assistance #1311,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-09
+EML-0338,2026-08-31,Service Escalation,Service & Installation Escalation #1312,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-08
+EML-0339,2026-03-08,Technical Support,Product Technical Assistance (Sound/Picture) #1313,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-03
+EML-0340,2026-09-06,Remote Support,Remote Control Inquiry & Replacement #1314,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-09
+EML-0341,2026-08-11,Review Operations,Flipkart / Amazon Review Verification #1315,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-08
+EML-0342,2026-06-23,Voucher Operations,Gift Card Voucher Code Sharing #1316,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-06
+EML-0343,2026-07-16,Installation Support,Wall Mount Bracket Fitting Request #1317,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0344,2026-10-13,General Inquiry,Customer Callback Scheduling #1318,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-10
+EML-0345,2026-03-30,Technical Support,TV Firmware & Software Update Assistance #1319,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-03
+EML-0346,2026-05-04,Service Escalation,Service & Installation Escalation #1320,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-05
+EML-0347,2025-11-02,Technical Support,Product Technical Assistance (Sound/Picture) #1321,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2025-11
+EML-0348,2026-02-17,Remote Support,Remote Control Inquiry & Replacement #1322,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-02
+EML-0349,2026-04-05,Review Operations,Flipkart / Amazon Review Verification #1323,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-04
+EML-0350,2026-06-13,Voucher Operations,Gift Card Voucher Code Sharing #1324,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-06
+EML-0351,2025-12-11,Installation Support,Wall Mount Bracket Fitting Request #1325,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-12
+EML-0352,2026-11-01,General Inquiry,Customer Callback Scheduling #1326,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-11
+EML-0353,2025-10-15,Technical Support,TV Firmware & Software Update Assistance #1327,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2025-10
+EML-0354,2026-09-27,Service Escalation,Service & Installation Escalation #1328,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-09
+EML-0355,2026-04-23,Technical Support,Product Technical Assistance (Sound/Picture) #1329,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-04
+EML-0356,2026-08-22,Remote Support,Remote Control Inquiry & Replacement #1330,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0357,2026-02-08,Review Operations,Flipkart / Amazon Review Verification #1331,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-02
+EML-0358,2025-12-11,Voucher Operations,Gift Card Voucher Code Sharing #1332,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-12
+EML-0359,2026-03-23,Installation Support,Wall Mount Bracket Fitting Request #1333,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-03
+EML-0360,2026-08-27,General Inquiry,Customer Callback Scheduling #1334,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-08
+EML-0361,2026-03-12,Technical Support,TV Firmware & Software Update Assistance #1335,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-03
+EML-0362,2026-05-15,Service Escalation,Service & Installation Escalation #1336,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-05
+EML-0363,2026-06-23,Technical Support,Product Technical Assistance (Sound/Picture) #1337,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-06
+EML-0364,2026-03-27,Remote Support,Remote Control Inquiry & Replacement #1338,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-03
+EML-0365,2026-03-10,Review Operations,Flipkart / Amazon Review Verification #1339,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-03
+EML-0366,2026-11-20,Voucher Operations,Gift Card Voucher Code Sharing #1340,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-11
+EML-0367,2026-06-04,Installation Support,Wall Mount Bracket Fitting Request #1341,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-06
+EML-0368,2025-10-28,General Inquiry,Customer Callback Scheduling #1342,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-10
+EML-0369,2025-10-15,Technical Support,TV Firmware & Software Update Assistance #1343,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-10
+EML-0370,2025-12-07,Service Escalation,Service & Installation Escalation #1344,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2025-12
+EML-0371,2026-06-30,Technical Support,Product Technical Assistance (Sound/Picture) #1345,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-06
+EML-0372,2025-10-26,Remote Support,Remote Control Inquiry & Replacement #1346,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2025-10
+EML-0373,2026-05-26,Review Operations,Flipkart / Amazon Review Verification #1347,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-05
+EML-0374,2026-03-19,Voucher Operations,Gift Card Voucher Code Sharing #1348,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-03
+EML-0375,2025-10-22,Installation Support,Wall Mount Bracket Fitting Request #1349,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-10
+EML-0376,2026-09-27,General Inquiry,Customer Callback Scheduling #1350,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-09
+EML-0377,2026-02-27,Technical Support,TV Firmware & Software Update Assistance #1351,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-02
+EML-0378,2026-08-26,Service Escalation,Service & Installation Escalation #1352,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-08
+EML-0379,2025-11-11,Technical Support,Product Technical Assistance (Sound/Picture) #1353,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2025-11
+EML-0380,2025-11-24,Remote Support,Remote Control Inquiry & Replacement #1354,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-11
+EML-0381,2026-03-08,Review Operations,Flipkart / Amazon Review Verification #1355,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-03
+EML-0382,2026-05-14,Voucher Operations,Gift Card Voucher Code Sharing #1356,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-05
+EML-0383,2026-05-22,Installation Support,Wall Mount Bracket Fitting Request #1357,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-05
+EML-0384,2026-11-15,General Inquiry,Customer Callback Scheduling #1358,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-11
+EML-0385,2025-11-18,Technical Support,TV Firmware & Software Update Assistance #1359,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0386,2026-11-08,Service Escalation,Service & Installation Escalation #1360,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-11
+EML-0387,2026-10-20,Technical Support,Product Technical Assistance (Sound/Picture) #1361,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-10
+EML-0388,2026-08-13,Remote Support,Remote Control Inquiry & Replacement #1362,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0389,2025-10-24,Review Operations,Flipkart / Amazon Review Verification #1363,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2025-10
+EML-0390,2026-06-13,Voucher Operations,Gift Card Voucher Code Sharing #1364,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-06
+EML-0391,2026-10-14,Installation Support,Wall Mount Bracket Fitting Request #1365,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-10
+EML-0392,2026-02-10,General Inquiry,Customer Callback Scheduling #1366,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-02
+EML-0393,2026-10-23,Technical Support,TV Firmware & Software Update Assistance #1367,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-10
+EML-0394,2026-03-09,Service Escalation,Service & Installation Escalation #1368,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-03
+EML-0395,2026-06-10,Technical Support,Product Technical Assistance (Sound/Picture) #1369,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-06
+EML-0396,2026-07-08,Remote Support,Remote Control Inquiry & Replacement #1370,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-07
+EML-0397,2026-07-23,Review Operations,Flipkart / Amazon Review Verification #1371,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-07
+EML-0398,2026-05-19,Voucher Operations,Gift Card Voucher Code Sharing #1372,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-05
+EML-0399,2026-08-25,Installation Support,Wall Mount Bracket Fitting Request #1373,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-08
+EML-0400,2026-04-09,General Inquiry,Customer Callback Scheduling #1374,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-04
+EML-0401,2026-01-20,Technical Support,TV Firmware & Software Update Assistance #1375,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-01
+EML-0402,2026-01-21,Service Escalation,Service & Installation Escalation #1376,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-01
+EML-0403,2026-11-03,Technical Support,Product Technical Assistance (Sound/Picture) #1377,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-11
+EML-0404,2026-08-21,Remote Support,Remote Control Inquiry & Replacement #1378,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-08
+EML-0405,2026-04-29,Review Operations,Flipkart / Amazon Review Verification #1379,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-04
+EML-0406,2026-02-24,Voucher Operations,Gift Card Voucher Code Sharing #1380,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-02
+EML-0407,2026-06-30,Installation Support,Wall Mount Bracket Fitting Request #1381,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-06
+EML-0408,2025-11-06,General Inquiry,Customer Callback Scheduling #1382,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-11
+EML-0409,2025-12-06,Technical Support,TV Firmware & Software Update Assistance #1383,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-12
+EML-0410,2026-05-04,Service Escalation,Service & Installation Escalation #1384,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-05
+EML-0411,2026-01-05,Technical Support,Product Technical Assistance (Sound/Picture) #1385,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-01
+EML-0412,2026-01-07,Remote Support,Remote Control Inquiry & Replacement #1386,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-01
+EML-0413,2026-10-15,Review Operations,Flipkart / Amazon Review Verification #1387,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-10
+EML-0414,2025-12-04,Voucher Operations,Gift Card Voucher Code Sharing #1388,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-12
+EML-0415,2026-05-07,Installation Support,Wall Mount Bracket Fitting Request #1389,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-05
+EML-0416,2026-10-18,General Inquiry,Customer Callback Scheduling #1390,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-10
+EML-0417,2026-09-27,Technical Support,TV Firmware & Software Update Assistance #1391,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-09
+EML-0418,2025-12-25,Service Escalation,Service & Installation Escalation #1392,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2025-12
+EML-0419,2026-03-17,Technical Support,Product Technical Assistance (Sound/Picture) #1393,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-03
+EML-0420,2026-03-25,Remote Support,Remote Control Inquiry & Replacement #1394,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-03
+EML-0421,2026-02-09,Review Operations,Flipkart / Amazon Review Verification #1395,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-02
+EML-0422,2026-10-28,Voucher Operations,Gift Card Voucher Code Sharing #1396,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-10
+EML-0423,2026-07-09,Installation Support,Wall Mount Bracket Fitting Request #1397,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0424,2025-12-07,General Inquiry,Customer Callback Scheduling #1398,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-12
+EML-0425,2026-05-24,Technical Support,TV Firmware & Software Update Assistance #1399,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-05
+EML-0426,2026-08-23,Service Escalation,Service & Installation Escalation #1400,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-08
+EML-0427,2026-02-03,Technical Support,Product Technical Assistance (Sound/Picture) #1401,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-02
+EML-0428,2026-08-13,Remote Support,Remote Control Inquiry & Replacement #1402,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-08
+EML-0429,2026-05-09,Review Operations,Flipkart / Amazon Review Verification #1403,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-05
+EML-0430,2026-09-20,Voucher Operations,Gift Card Voucher Code Sharing #1404,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-09
+EML-0431,2025-12-19,Installation Support,Wall Mount Bracket Fitting Request #1405,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2025-12
+EML-0432,2026-01-25,General Inquiry,Customer Callback Scheduling #1406,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-01
+EML-0433,2026-04-24,Technical Support,TV Firmware & Software Update Assistance #1407,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-04
+EML-0434,2026-08-04,Service Escalation,Service & Installation Escalation #1408,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-08
+EML-0435,2026-01-20,Technical Support,Product Technical Assistance (Sound/Picture) #1409,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-01
+EML-0436,2026-07-27,Remote Support,Remote Control Inquiry & Replacement #1410,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-07
+EML-0437,2026-09-26,Review Operations,Flipkart / Amazon Review Verification #1411,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-09
+EML-0438,2026-08-18,Voucher Operations,Gift Card Voucher Code Sharing #1412,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-08
+EML-0439,2026-03-29,Installation Support,Wall Mount Bracket Fitting Request #1413,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-03
+EML-0440,2026-09-14,General Inquiry,Customer Callback Scheduling #1414,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-09
+EML-0441,2026-06-18,Technical Support,TV Firmware & Software Update Assistance #1415,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-06
+EML-0442,2025-12-04,Service Escalation,Service & Installation Escalation #1416,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2025-12
+EML-0443,2026-02-24,Technical Support,Product Technical Assistance (Sound/Picture) #1417,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-02
+EML-0444,2026-11-06,Remote Support,Remote Control Inquiry & Replacement #1418,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-11
+EML-0445,2026-04-16,Review Operations,Flipkart / Amazon Review Verification #1419,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-04
+EML-0446,2026-09-09,Voucher Operations,Gift Card Voucher Code Sharing #1420,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-09
+EML-0447,2026-09-19,Installation Support,Wall Mount Bracket Fitting Request #1421,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-09
+EML-0448,2025-11-17,General Inquiry,Customer Callback Scheduling #1422,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-11
+EML-0449,2025-12-06,Technical Support,TV Firmware & Software Update Assistance #1423,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2025-12
+EML-0450,2026-05-07,Service Escalation,Service & Installation Escalation #1424,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-05
+EML-0451,2026-06-06,Technical Support,Product Technical Assistance (Sound/Picture) #1425,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-06
+EML-0452,2026-06-11,Remote Support,Remote Control Inquiry & Replacement #1426,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-06
+EML-0453,2026-10-20,Review Operations,Flipkart / Amazon Review Verification #1427,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-10
+EML-0454,2026-06-20,Voucher Operations,Gift Card Voucher Code Sharing #1428,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-06
+EML-0455,2026-04-15,Installation Support,Wall Mount Bracket Fitting Request #1429,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-04
+EML-0456,2026-10-23,General Inquiry,Customer Callback Scheduling #1430,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-10
+EML-0457,2026-04-27,Technical Support,TV Firmware & Software Update Assistance #1431,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-04
+EML-0458,2026-03-18,Service Escalation,Service & Installation Escalation #1432,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-03
+EML-0459,2026-03-23,Technical Support,Product Technical Assistance (Sound/Picture) #1433,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-03
+EML-0460,2025-12-14,Remote Support,Remote Control Inquiry & Replacement #1434,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2025-12
+EML-0461,2025-12-04,Review Operations,Flipkart / Amazon Review Verification #1435,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-12
+EML-0462,2026-07-18,Voucher Operations,Gift Card Voucher Code Sharing #1436,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-07
+EML-0463,2026-01-14,Installation Support,Wall Mount Bracket Fitting Request #1437,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-01
+EML-0464,2026-08-27,General Inquiry,Customer Callback Scheduling #1438,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-08
+EML-0465,2026-09-05,Technical Support,TV Firmware & Software Update Assistance #1439,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-09
+EML-0466,2026-02-24,Service Escalation,Service & Installation Escalation #1440,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-02
+EML-0467,2025-10-26,Technical Support,Product Technical Assistance (Sound/Picture) #1441,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-10
+EML-0468,2025-11-29,Remote Support,Remote Control Inquiry & Replacement #1442,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2025-11
+EML-0469,2025-12-31,Review Operations,Flipkart / Amazon Review Verification #1443,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2025-12
+EML-0470,2026-08-11,Voucher Operations,Gift Card Voucher Code Sharing #1444,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-08
+EML-0471,2025-12-26,Installation Support,Wall Mount Bracket Fitting Request #1445,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0472,2026-06-20,General Inquiry,Customer Callback Scheduling #1446,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-06
+EML-0473,2026-02-12,Technical Support,TV Firmware & Software Update Assistance #1447,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-02
+EML-0474,2026-06-10,Service Escalation,Service & Installation Escalation #1448,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-06
+EML-0475,2026-09-29,Technical Support,Product Technical Assistance (Sound/Picture) #1449,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-09
+EML-0476,2026-08-29,Remote Support,Remote Control Inquiry & Replacement #1450,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0477,2026-09-16,Review Operations,Flipkart / Amazon Review Verification #1451,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-09
+EML-0478,2026-08-02,Voucher Operations,Gift Card Voucher Code Sharing #1452,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-08
+EML-0479,2025-10-22,Installation Support,Wall Mount Bracket Fitting Request #1453,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-10
+EML-0480,2026-10-04,General Inquiry,Customer Callback Scheduling #1454,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-10
+EML-0481,2026-04-12,Technical Support,TV Firmware & Software Update Assistance #1455,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-04
+EML-0482,2026-08-13,Service Escalation,Service & Installation Escalation #1456,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-08
+EML-0483,2025-12-09,Technical Support,Product Technical Assistance (Sound/Picture) #1457,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-12
+EML-0484,2025-10-28,Remote Support,Remote Control Inquiry & Replacement #1458,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2025-10
+EML-0485,2025-11-11,Review Operations,Flipkart / Amazon Review Verification #1459,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-11
+EML-0486,2025-12-31,Voucher Operations,Gift Card Voucher Code Sharing #1460,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2025-12
+EML-0487,2026-10-14,Installation Support,Wall Mount Bracket Fitting Request #1461,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-10
+EML-0488,2025-10-28,General Inquiry,Customer Callback Scheduling #1462,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-10
+EML-0489,2026-08-22,Technical Support,TV Firmware & Software Update Assistance #1463,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-08
+EML-0490,2025-10-21,Service Escalation,Service & Installation Escalation #1464,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2025-10
+EML-0491,2026-02-02,Technical Support,Product Technical Assistance (Sound/Picture) #1465,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-02
+EML-0492,2026-06-09,Remote Support,Remote Control Inquiry & Replacement #1466,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-06
+EML-0493,2026-06-10,Review Operations,Flipkart / Amazon Review Verification #1467,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-06
+EML-0494,2026-07-15,Voucher Operations,Gift Card Voucher Code Sharing #1468,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-07
+EML-0495,2026-08-04,Installation Support,Wall Mount Bracket Fitting Request #1469,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-08
+EML-0496,2026-10-20,General Inquiry,Customer Callback Scheduling #1470,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-10
+EML-0497,2026-04-24,Technical Support,TV Firmware & Software Update Assistance #1471,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-04
+EML-0498,2026-02-10,Service Escalation,Service & Installation Escalation #1472,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-02
+EML-0499,2025-11-11,Technical Support,Product Technical Assistance (Sound/Picture) #1473,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-11
+EML-0500,2025-11-22,Remote Support,Remote Control Inquiry & Replacement #1474,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2025-11
+EML-0501,2026-07-14,Review Operations,Flipkart / Amazon Review Verification #1475,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-07
+EML-0502,2026-01-08,Voucher Operations,Gift Card Voucher Code Sharing #1476,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-01
+EML-0503,2026-02-17,Installation Support,Wall Mount Bracket Fitting Request #1477,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-02
+EML-0504,2026-03-08,General Inquiry,Customer Callback Scheduling #1478,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-03
+EML-0505,2026-05-14,Technical Support,TV Firmware & Software Update Assistance #1479,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-05
+EML-0506,2025-12-21,Service Escalation,Service & Installation Escalation #1480,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2025-12
+EML-0507,2025-12-20,Technical Support,Product Technical Assistance (Sound/Picture) #1481,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2025-12
+EML-0508,2026-01-31,Remote Support,Remote Control Inquiry & Replacement #1482,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-01
+EML-0509,2026-02-02,Review Operations,Flipkart / Amazon Review Verification #1483,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-02
+EML-0510,2025-11-17,Voucher Operations,Gift Card Voucher Code Sharing #1484,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-11
+EML-0511,2026-07-05,Installation Support,Wall Mount Bracket Fitting Request #1485,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0512,2026-06-07,General Inquiry,Customer Callback Scheduling #1486,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-06
+EML-0513,2025-11-25,Technical Support,TV Firmware & Software Update Assistance #1487,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2025-11
+EML-0514,2026-01-23,Service Escalation,Service & Installation Escalation #1488,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-01
+EML-0515,2026-04-12,Technical Support,Product Technical Assistance (Sound/Picture) #1489,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-04
+EML-0516,2026-08-30,Remote Support,Remote Control Inquiry & Replacement #1490,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-08
+EML-0517,2026-08-25,Review Operations,Flipkart / Amazon Review Verification #1491,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-08
+EML-0518,2026-05-31,Voucher Operations,Gift Card Voucher Code Sharing #1492,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-05
+EML-0519,2026-07-30,Installation Support,Wall Mount Bracket Fitting Request #1493,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0520,2026-03-13,General Inquiry,Customer Callback Scheduling #1494,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-03
+EML-0521,2026-04-30,Technical Support,TV Firmware & Software Update Assistance #1495,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-04
+EML-0522,2026-02-03,Service Escalation,Service & Installation Escalation #1496,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-02
+EML-0523,2026-09-29,Technical Support,Product Technical Assistance (Sound/Picture) #1497,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-09
+EML-0524,2026-08-28,Remote Support,Remote Control Inquiry & Replacement #1498,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-08
+EML-0525,2026-01-17,Review Operations,Flipkart / Amazon Review Verification #1499,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-01
+EML-0526,2026-02-28,Voucher Operations,Gift Card Voucher Code Sharing #1500,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-02
+EML-0527,2026-11-05,Installation Support,Wall Mount Bracket Fitting Request #1501,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-11
+EML-0528,2025-11-14,General Inquiry,Customer Callback Scheduling #1502,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-11
+EML-0529,2025-11-19,Technical Support,TV Firmware & Software Update Assistance #1503,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2025-11
+EML-0530,2025-10-20,Service Escalation,Service & Installation Escalation #1504,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2025-10
+EML-0531,2026-05-22,Technical Support,Product Technical Assistance (Sound/Picture) #1505,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-05
+EML-0532,2025-10-18,Remote Support,Remote Control Inquiry & Replacement #1506,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-10
+EML-0533,2026-02-25,Review Operations,Flipkart / Amazon Review Verification #1507,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-02
+EML-0534,2026-10-18,Voucher Operations,Gift Card Voucher Code Sharing #1508,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-10
+EML-0535,2025-12-15,Installation Support,Wall Mount Bracket Fitting Request #1509,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-12
+EML-0536,2026-04-26,General Inquiry,Customer Callback Scheduling #1510,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-04
+EML-0537,2026-05-05,Technical Support,TV Firmware & Software Update Assistance #1511,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-05
+EML-0538,2026-04-05,Service Escalation,Service & Installation Escalation #1512,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-04
+EML-0539,2026-02-24,Technical Support,Product Technical Assistance (Sound/Picture) #1513,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-02
+EML-0540,2026-02-09,Remote Support,Remote Control Inquiry & Replacement #1514,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-02
+EML-0541,2026-05-14,Review Operations,Flipkart / Amazon Review Verification #1515,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-05
+EML-0542,2025-11-03,Voucher Operations,Gift Card Voucher Code Sharing #1516,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-11
+EML-0543,2026-03-03,Installation Support,Wall Mount Bracket Fitting Request #1517,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-03
+EML-0544,2025-10-15,General Inquiry,Customer Callback Scheduling #1518,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2025-10
+EML-0545,2026-03-05,Technical Support,TV Firmware & Software Update Assistance #1519,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-03
+EML-0546,2026-08-03,Service Escalation,Service & Installation Escalation #1520,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-08
+EML-0547,2026-03-02,Technical Support,Product Technical Assistance (Sound/Picture) #1521,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-03
+EML-0548,2026-10-05,Remote Support,Remote Control Inquiry & Replacement #1522,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-10
+EML-0549,2026-06-30,Review Operations,Flipkart / Amazon Review Verification #1523,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-06
+EML-0550,2026-11-08,Voucher Operations,Gift Card Voucher Code Sharing #1524,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-11
+EML-0551,2025-10-24,Installation Support,Wall Mount Bracket Fitting Request #1525,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-10
+EML-0552,2026-03-01,General Inquiry,Customer Callback Scheduling #1526,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-03
+EML-0553,2025-10-27,Technical Support,TV Firmware & Software Update Assistance #1527,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2025-10
+EML-0554,2026-01-06,Service Escalation,Service & Installation Escalation #1528,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-01
+EML-0555,2026-08-29,Technical Support,Product Technical Assistance (Sound/Picture) #1529,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,2,No,2026-08
+EML-0556,2026-09-08,Remote Support,Remote Control Inquiry & Replacement #1530,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-09
+EML-0557,2026-07-06,Review Operations,Flipkart / Amazon Review Verification #1531,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-07
+EML-0558,2026-11-17,Voucher Operations,Gift Card Voucher Code Sharing #1532,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-11
+EML-0559,2026-01-16,Installation Support,Wall Mount Bracket Fitting Request #1533,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-01
+EML-0560,2026-08-15,General Inquiry,Customer Callback Scheduling #1534,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-08
+EML-0561,2026-08-28,Technical Support,TV Firmware & Software Update Assistance #1535,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-08
+EML-0562,2026-09-13,Service Escalation,Service & Installation Escalation #1536,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-09
+EML-0563,2026-10-25,Technical Support,Product Technical Assistance (Sound/Picture) #1537,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-10
+EML-0564,2026-02-28,Remote Support,Remote Control Inquiry & Replacement #1538,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-02
+EML-0565,2025-12-29,Review Operations,Flipkart / Amazon Review Verification #1539,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-12
+EML-0566,2025-11-18,Voucher Operations,Gift Card Voucher Code Sharing #1540,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-11
+EML-0567,2026-08-06,Installation Support,Wall Mount Bracket Fitting Request #1541,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-08
+EML-0568,2025-12-13,General Inquiry,Customer Callback Scheduling #1542,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-12
+EML-0569,2026-09-07,Technical Support,TV Firmware & Software Update Assistance #1543,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-09
+EML-0570,2026-10-10,Service Escalation,Service & Installation Escalation #1544,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-10
+EML-0571,2026-07-11,Technical Support,Product Technical Assistance (Sound/Picture) #1545,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-07
+EML-0572,2026-08-01,Remote Support,Remote Control Inquiry & Replacement #1546,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0573,2026-03-28,Review Operations,Flipkart / Amazon Review Verification #1547,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-03
+EML-0574,2026-09-18,Voucher Operations,Gift Card Voucher Code Sharing #1548,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-09
+EML-0575,2025-12-31,Installation Support,Wall Mount Bracket Fitting Request #1549,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2025-12
+EML-0576,2025-12-15,General Inquiry,Customer Callback Scheduling #1550,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2025-12
+EML-0577,2026-06-08,Technical Support,TV Firmware & Software Update Assistance #1551,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-06
+EML-0578,2026-01-11,Service Escalation,Service & Installation Escalation #1552,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-01
+EML-0579,2026-08-06,Technical Support,Product Technical Assistance (Sound/Picture) #1553,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-08
+EML-0580,2026-01-26,Remote Support,Remote Control Inquiry & Replacement #1554,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-01
+EML-0581,2026-07-29,Review Operations,Flipkart / Amazon Review Verification #1555,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-07
+EML-0582,2026-02-16,Voucher Operations,Gift Card Voucher Code Sharing #1556,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-02
+EML-0583,2026-10-02,Installation Support,Wall Mount Bracket Fitting Request #1557,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-10
+EML-0584,2025-12-16,General Inquiry,Customer Callback Scheduling #1558,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-12
+EML-0585,2026-03-16,Technical Support,TV Firmware & Software Update Assistance #1559,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-03
+EML-0586,2026-05-27,Service Escalation,Service & Installation Escalation #1560,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-05
+EML-0587,2026-08-19,Technical Support,Product Technical Assistance (Sound/Picture) #1561,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-08
+EML-0588,2025-11-22,Remote Support,Remote Control Inquiry & Replacement #1562,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-11
+EML-0589,2026-04-30,Review Operations,Flipkart / Amazon Review Verification #1563,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-04
+EML-0590,2025-12-20,Voucher Operations,Gift Card Voucher Code Sharing #1564,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-12
+EML-0591,2026-04-11,Installation Support,Wall Mount Bracket Fitting Request #1565,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-04
+EML-0592,2025-10-29,General Inquiry,Customer Callback Scheduling #1566,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-10
+EML-0593,2026-03-20,Technical Support,TV Firmware & Software Update Assistance #1567,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-03
+EML-0594,2026-06-02,Service Escalation,Service & Installation Escalation #1568,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-06
+EML-0595,2026-03-20,Technical Support,Product Technical Assistance (Sound/Picture) #1569,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-03
+EML-0596,2026-01-19,Remote Support,Remote Control Inquiry & Replacement #1570,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-01
+EML-0597,2026-07-30,Review Operations,Flipkart / Amazon Review Verification #1571,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-07
+EML-0598,2026-04-28,Voucher Operations,Gift Card Voucher Code Sharing #1572,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-04
+EML-0599,2026-09-01,Installation Support,Wall Mount Bracket Fitting Request #1573,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-09
+EML-0600,2025-10-19,General Inquiry,Customer Callback Scheduling #1574,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-10
+EML-0601,2026-09-09,Technical Support,TV Firmware & Software Update Assistance #1575,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-09
+EML-0602,2026-02-09,Service Escalation,Service & Installation Escalation #1576,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-02
+EML-0603,2026-11-15,Technical Support,Product Technical Assistance (Sound/Picture) #1577,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-11
+EML-0604,2026-08-13,Remote Support,Remote Control Inquiry & Replacement #1578,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0605,2026-05-18,Review Operations,Flipkart / Amazon Review Verification #1579,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-05
+EML-0606,2026-03-20,Voucher Operations,Gift Card Voucher Code Sharing #1580,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-03
+EML-0607,2026-03-20,Installation Support,Wall Mount Bracket Fitting Request #1581,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-03
+EML-0608,2026-09-03,General Inquiry,Customer Callback Scheduling #1582,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-09
+EML-0609,2026-02-21,Technical Support,TV Firmware & Software Update Assistance #1583,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-02
+EML-0610,2026-01-17,Service Escalation,Service & Installation Escalation #1584,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-01
+EML-0611,2026-06-14,Technical Support,Product Technical Assistance (Sound/Picture) #1585,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-06
+EML-0612,2026-08-09,Remote Support,Remote Control Inquiry & Replacement #1586,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-08
+EML-0613,2025-12-22,Review Operations,Flipkart / Amazon Review Verification #1587,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2025-12
+EML-0614,2026-06-25,Voucher Operations,Gift Card Voucher Code Sharing #1588,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-06
+EML-0615,2026-10-09,Installation Support,Wall Mount Bracket Fitting Request #1589,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-10
+EML-0616,2026-02-25,General Inquiry,Customer Callback Scheduling #1590,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-02
+EML-0617,2026-08-13,Technical Support,TV Firmware & Software Update Assistance #1591,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-08
+EML-0618,2026-08-12,Service Escalation,Service & Installation Escalation #1592,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-08
+EML-0619,2026-11-14,Technical Support,Product Technical Assistance (Sound/Picture) #1593,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-11
+EML-0620,2026-03-04,Remote Support,Remote Control Inquiry & Replacement #1594,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-03
+EML-0621,2026-05-12,Review Operations,Flipkart / Amazon Review Verification #1595,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-05
+EML-0622,2026-02-02,Voucher Operations,Gift Card Voucher Code Sharing #1596,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-02
+EML-0623,2026-10-05,Installation Support,Wall Mount Bracket Fitting Request #1597,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-10
+EML-0624,2026-10-25,General Inquiry,Customer Callback Scheduling #1598,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-10
+EML-0625,2026-09-07,Technical Support,TV Firmware & Software Update Assistance #1599,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-09
+EML-0626,2026-01-28,Service Escalation,Service & Installation Escalation #1600,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-01
+EML-0627,2026-01-14,Technical Support,Product Technical Assistance (Sound/Picture) #1601,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-01
+EML-0628,2026-10-27,Remote Support,Remote Control Inquiry & Replacement #1602,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-10
+EML-0629,2025-12-04,Review Operations,Flipkart / Amazon Review Verification #1603,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2025-12
+EML-0630,2026-08-06,Voucher Operations,Gift Card Voucher Code Sharing #1604,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-08
+EML-0631,2026-05-16,Installation Support,Wall Mount Bracket Fitting Request #1605,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-05
+EML-0632,2026-06-28,General Inquiry,Customer Callback Scheduling #1606,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-06
+EML-0633,2026-01-23,Technical Support,TV Firmware & Software Update Assistance #1607,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-01
+EML-0634,2026-09-25,Service Escalation,Service & Installation Escalation #1608,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-09
+EML-0635,2026-04-14,Technical Support,Product Technical Assistance (Sound/Picture) #1609,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-04
+EML-0636,2026-08-23,Remote Support,Remote Control Inquiry & Replacement #1610,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-08
+EML-0637,2026-08-29,Review Operations,Flipkart / Amazon Review Verification #1611,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-08
+EML-0638,2025-12-08,Voucher Operations,Gift Card Voucher Code Sharing #1612,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2025-12
+EML-0639,2026-11-17,Installation Support,Wall Mount Bracket Fitting Request #1613,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-11
+EML-0640,2026-08-19,General Inquiry,Customer Callback Scheduling #1614,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-08
+EML-0641,2026-05-04,Technical Support,TV Firmware & Software Update Assistance #1615,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-05
+EML-0642,2026-02-08,Service Escalation,Service & Installation Escalation #1616,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-02
+EML-0643,2026-08-01,Technical Support,Product Technical Assistance (Sound/Picture) #1617,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-08
+EML-0644,2026-06-15,Remote Support,Remote Control Inquiry & Replacement #1618,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-06
+EML-0645,2026-01-12,Review Operations,Flipkart / Amazon Review Verification #1619,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,4,No,2026-01
+EML-0646,2026-08-04,Voucher Operations,Gift Card Voucher Code Sharing #1620,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-08
+EML-0647,2026-11-09,Installation Support,Wall Mount Bracket Fitting Request #1621,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-11
+EML-0648,2026-09-26,General Inquiry,Customer Callback Scheduling #1622,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-09
+EML-0649,2026-02-19,Technical Support,TV Firmware & Software Update Assistance #1623,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-02
+EML-0650,2026-10-13,Service Escalation,Service & Installation Escalation #1624,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-10
+EML-0651,2026-04-11,Technical Support,Product Technical Assistance (Sound/Picture) #1625,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-04
+EML-0652,2026-03-15,Remote Support,Remote Control Inquiry & Replacement #1626,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-03
+EML-0653,2026-04-12,Review Operations,Flipkart / Amazon Review Verification #1627,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-04
+EML-0654,2026-09-23,Voucher Operations,Gift Card Voucher Code Sharing #1628,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-09
+EML-0655,2026-04-09,Installation Support,Wall Mount Bracket Fitting Request #1629,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-04
+EML-0656,2025-12-16,General Inquiry,Customer Callback Scheduling #1630,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-12
+EML-0657,2026-03-13,Technical Support,TV Firmware & Software Update Assistance #1631,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-03
+EML-0658,2026-03-19,Service Escalation,Service & Installation Escalation #1632,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-03
+EML-0659,2025-12-02,Technical Support,Product Technical Assistance (Sound/Picture) #1633,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2025-12
+EML-0660,2026-09-16,Remote Support,Remote Control Inquiry & Replacement #1634,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-09
+EML-0661,2026-04-09,Review Operations,Flipkart / Amazon Review Verification #1635,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-04
+EML-0662,2026-09-21,Voucher Operations,Gift Card Voucher Code Sharing #1636,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-09
+EML-0663,2026-04-21,Installation Support,Wall Mount Bracket Fitting Request #1637,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-04
+EML-0664,2026-09-06,General Inquiry,Customer Callback Scheduling #1638,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-09
+EML-0665,2026-05-26,Technical Support,TV Firmware & Software Update Assistance #1639,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-05
+EML-0666,2026-05-17,Service Escalation,Service & Installation Escalation #1640,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,12,No,2026-05
+EML-0667,2026-10-28,Technical Support,Product Technical Assistance (Sound/Picture) #1641,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-10
+EML-0668,2026-08-28,Remote Support,Remote Control Inquiry & Replacement #1642,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-08
+EML-0669,2026-07-26,Review Operations,Flipkart / Amazon Review Verification #1643,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-07
+EML-0670,2026-07-27,Voucher Operations,Gift Card Voucher Code Sharing #1644,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-07
+EML-0671,2025-11-01,Installation Support,Wall Mount Bracket Fitting Request #1645,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2025-11
+EML-0672,2025-12-31,General Inquiry,Customer Callback Scheduling #1646,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2025-12
+EML-0673,2026-04-07,Technical Support,TV Firmware & Software Update Assistance #1647,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-04
+EML-0674,2026-04-26,Service Escalation,Service & Installation Escalation #1648,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-04
+EML-0675,2026-02-04,Technical Support,Product Technical Assistance (Sound/Picture) #1649,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-02
+EML-0676,2026-05-24,Remote Support,Remote Control Inquiry & Replacement #1650,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-05
+EML-0677,2026-08-29,Review Operations,Flipkart / Amazon Review Verification #1651,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-08
+EML-0678,2026-07-05,Voucher Operations,Gift Card Voucher Code Sharing #1652,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2026-07
+EML-0679,2025-12-08,Installation Support,Wall Mount Bracket Fitting Request #1653,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2025-12
+EML-0680,2026-02-22,General Inquiry,Customer Callback Scheduling #1654,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-02
+EML-0681,2026-10-15,Technical Support,TV Firmware & Software Update Assistance #1655,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-10
+EML-0682,2026-10-29,Service Escalation,Service & Installation Escalation #1656,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2026-10
+EML-0683,2026-01-09,Technical Support,Product Technical Assistance (Sound/Picture) #1657,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-01
+EML-0684,2026-07-29,Remote Support,Remote Control Inquiry & Replacement #1658,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,12,No,2026-07
+EML-0685,2026-11-09,Review Operations,Flipkart / Amazon Review Verification #1659,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-11
+EML-0686,2025-10-22,Voucher Operations,Gift Card Voucher Code Sharing #1660,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,1,No,2025-10
+EML-0687,2026-08-23,Installation Support,Wall Mount Bracket Fitting Request #1661,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-08
+EML-0688,2026-09-02,General Inquiry,Customer Callback Scheduling #1662,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,6,No,2026-09
+EML-0689,2026-06-26,Technical Support,TV Firmware & Software Update Assistance #1663,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-06
+EML-0690,2026-09-07,Service Escalation,Service & Installation Escalation #1664,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-09
+EML-0691,2026-06-20,Technical Support,Product Technical Assistance (Sound/Picture) #1665,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,8,No,2026-06
+EML-0692,2026-05-31,Remote Support,Remote Control Inquiry & Replacement #1666,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-05
+EML-0693,2025-12-04,Review Operations,Flipkart / Amazon Review Verification #1667,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2025-12
+EML-0694,2026-01-14,Voucher Operations,Gift Card Voucher Code Sharing #1668,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,3,No,2026-01
+EML-0695,2026-07-05,Installation Support,Wall Mount Bracket Fitting Request #1669,Chandni (User),Arranged standard wall mount kit with technician,Resolved,16,No,2026-07
+EML-0696,2026-08-01,General Inquiry,Customer Callback Scheduling #1670,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,4,No,2026-08
+EML-0697,2026-07-29,Technical Support,TV Firmware & Software Update Assistance #1671,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-07
+EML-0698,2026-11-18,Service Escalation,Service & Installation Escalation #1672,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,24,No,2026-11
+EML-0699,2026-03-28,Technical Support,Product Technical Assistance (Sound/Picture) #1673,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-03
+EML-0700,2026-11-16,Remote Support,Remote Control Inquiry & Replacement #1674,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2026-11
+EML-0701,2026-08-21,Review Operations,Flipkart / Amazon Review Verification #1675,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,2,No,2026-08
+EML-0702,2025-10-21,Voucher Operations,Gift Card Voucher Code Sharing #1676,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2025-10
+EML-0703,2026-07-04,Installation Support,Wall Mount Bracket Fitting Request #1677,Chandni (User),Arranged standard wall mount kit with technician,Resolved,8,No,2026-07
+EML-0704,2026-03-14,General Inquiry,Customer Callback Scheduling #1678,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-03
+EML-0705,2026-03-10,Technical Support,TV Firmware & Software Update Assistance #1679,Chandni (User),Shared step-by-step OTA update guide,Resolved,3,No,2026-03
+EML-0706,2025-11-19,Service Escalation,Service & Installation Escalation #1680,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,4,No,2025-11
+EML-0707,2026-04-20,Technical Support,Product Technical Assistance (Sound/Picture) #1681,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-04
+EML-0708,2025-10-16,Remote Support,Remote Control Inquiry & Replacement #1682,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2025-10
+EML-0709,2026-08-13,Review Operations,Flipkart / Amazon Review Verification #1683,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-08
+EML-0710,2025-10-25,Voucher Operations,Gift Card Voucher Code Sharing #1684,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2025-10
+EML-0711,2026-11-04,Installation Support,Wall Mount Bracket Fitting Request #1685,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-11
+EML-0712,2026-02-10,General Inquiry,Customer Callback Scheduling #1686,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-02
+EML-0713,2026-08-03,Technical Support,TV Firmware & Software Update Assistance #1687,Chandni (User),Shared step-by-step OTA update guide,Resolved,6,No,2026-08
+EML-0714,2026-06-27,Service Escalation,Service & Installation Escalation #1688,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-06
+EML-0715,2026-11-11,Technical Support,Product Technical Assistance (Sound/Picture) #1689,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2026-11
+EML-0716,2025-12-06,Remote Support,Remote Control Inquiry & Replacement #1690,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,24,No,2025-12
+EML-0717,2026-09-21,Review Operations,Flipkart / Amazon Review Verification #1691,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-09
+EML-0718,2026-05-04,Voucher Operations,Gift Card Voucher Code Sharing #1692,Chandni (User),Shared ₹300 Flipkart / Prime Lite gift code via WhatsApp & Email,Resolved,2,No,2026-05
+EML-0719,2026-02-11,Installation Support,Wall Mount Bracket Fitting Request #1693,Chandni (User),Arranged standard wall mount kit with technician,Resolved,24,No,2026-02
+EML-0720,2026-05-17,General Inquiry,Customer Callback Scheduling #1694,Chandni (User),Scheduled follow-up call at customer requested time,Resolved,2,No,2026-05
+EML-0721,2026-10-19,Technical Support,TV Firmware & Software Update Assistance #1695,Chandni (User),Shared step-by-step OTA update guide,Resolved,12,No,2026-10
+EML-0722,2026-05-11,Service Escalation,Service & Installation Escalation #1696,Chandni (User),Followed up with Jeeves field team for immediate installation,Resolved,6,No,2026-05
+EML-0723,2025-10-23,Technical Support,Product Technical Assistance (Sound/Picture) #1697,Chandni (User),Guided customer through TV settings reset and sound calibration,Resolved,4,No,2025-10
+EML-0724,2026-06-08,Remote Support,Remote Control Inquiry & Replacement #1698,Chandni (User),Confirmed shipping address and dispatched replacement remote,Resolved,6,No,2026-06
+EML-0725,2026-10-08,Review Operations,Flipkart / Amazon Review Verification #1699,Chandni (User),Verified 5-star rating on platform and approved voucher,Resolved,1,No,2026-10

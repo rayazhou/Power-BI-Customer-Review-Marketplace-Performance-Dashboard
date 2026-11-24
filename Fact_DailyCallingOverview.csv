@@ -1,0 +1,518 @@
+Agent,Date,Platform,Series,Calls,Ratings,Overview_ID,Effective_Agent,Is_User_Portfolio,Year_Month,Month_Name,Day_Of_Week
+Chandni,2025-10-15,Amazon,8100,50,6,OVR-00001,Chandni,1,2025-10,October 2025,Wednesday
+Chandni,2025-10-16,Amazon,8100,55,10,OVR-00002,Chandni,1,2025-10,October 2025,Thursday
+Chandni,2025-10-17,Amazon,8100,38,3,OVR-00003,Chandni,1,2025-10,October 2025,Friday
+Chandni,2025-10-24,Amazon,8100,49,4,OVR-00004,Chandni,1,2025-10,October 2025,Friday
+Chandni,2025-10-25,Amazon,8100,54,3,OVR-00005,Chandni,1,2025-10,October 2025,Saturday
+Chandni,2025-10-27,Amazon,8100,96,11,OVR-00006,Chandni,1,2025-10,October 2025,Monday
+Chandni,2025-10-28,Amazon,8100,63,10,OVR-00007,Chandni,1,2025-10,October 2025,Tuesday
+Chandni,2025-10-29,Amazon,8100,89,8,OVR-00008,Chandni,1,2025-10,October 2025,Wednesday
+Chandni,2025-10-30,Amazon,8100,58,8,OVR-00009,Chandni,1,2025-10,October 2025,Thursday
+Chandni,2025-10-31,Amazon,8100,80,10,OVR-00010,Chandni,1,2025-10,October 2025,Friday
+Chandni,2025-11-03,Amazon,8100,81,5,OVR-00011,Chandni,1,2025-11,November 2025,Monday
+Chandni,2025-11-04,Flipkart,8100,44,6,OVR-00012,Chandni,1,2025-11,November 2025,Tuesday
+Chandni,2025-11-05,Amazon,8100,58,3,OVR-00013,Chandni,1,2025-11,November 2025,Wednesday
+Chandni,2025-11-06,Amazon,8100,73,5,OVR-00014,Chandni,1,2025-11,November 2025,Thursday
+Chandni,2025-11-10,Amazon,8100,85,8,OVR-00015,Chandni,1,2025-11,November 2025,Monday
+Chandni,2025-11-11,Amazon/Flipkart,8100,91,6,OVR-00016,Chandni,1,2025-11,November 2025,Tuesday
+Chandni,2025-11-12,Amazon,8100,102,6,OVR-00017,Chandni,1,2025-11,November 2025,Wednesday
+Chandni,2025-11-13,Amazon,8100,79,7,OVR-00018,Chandni,1,2025-11,November 2025,Thursday
+Chandni,2025-11-14,Amazon,8100,86,3,OVR-00019,Chandni,1,2025-11,November 2025,Friday
+Chandni,2025-11-17,Amazon,8100,75,6,OVR-00020,Chandni,1,2025-11,November 2025,Monday
+Chandni,2025-11-18,Amazon,8100,79,5,OVR-00021,Chandni,1,2025-11,November 2025,Tuesday
+Chandni,2025-11-19,Amazon,8100,114,23,OVR-00022,Chandni,1,2025-11,November 2025,Wednesday
+Chandni,2025-11-20,Amazon,8100,72,17,OVR-00023,Chandni,1,2025-11,November 2025,Thursday
+Chandni,2025-11-21,Amazon,8100,60,8,OVR-00024,Chandni,1,2025-11,November 2025,Friday
+Chandni,2025-11-24,Amazon,8100,88,11,OVR-00025,Chandni,1,2025-11,November 2025,Monday
+Chandni,2025-11-25,Amazon,8100,74,9,OVR-00026,Chandni,1,2025-11,November 2025,Tuesday
+Chandni,2025-11-26,Amazon,8100,74,15,OVR-00027,Chandni,1,2025-11,November 2025,Wednesday
+Chandni,2025-11-27,Amazon,8100,52,5,OVR-00028,Chandni,1,2025-11,November 2025,Thursday
+Chandni,2025-11-28,Amazon,8100,82,9,OVR-00029,Chandni,1,2025-11,November 2025,Friday
+Chandni,2025-11-29,Flipkart,8100,10,1,OVR-00030,Chandni,1,2025-11,November 2025,Saturday
+Chandni,2025-11-30,Amazon/Flipkart,8100,48,2,OVR-00031,Chandni,1,2025-11,November 2025,Sunday
+Chandni,2025-12-01,Flipkart,8100,65,8,OVR-00032,Chandni,1,2025-12,December 2025,Monday
+Chandni,2025-12-03,Flipkart,8100,71,10,OVR-00033,Chandni,1,2025-12,December 2025,Wednesday
+Chandni,2025-12-04,Flipkart,8100,74,4,OVR-00034,Chandni,1,2025-12,December 2025,Thursday
+Chandni,2025-12-05,Flipkart,8100,53,5,OVR-00035,Chandni,1,2025-12,December 2025,Friday
+Chandni,2025-12-08,Flipkart,8100,55,5,OVR-00036,Chandni,1,2025-12,December 2025,Monday
+Chandni,2025-12-09,Flipkart,8100,73,9,OVR-00037,Chandni,1,2025-12,December 2025,Tuesday
+Chandni,2025-12-10,Flipkart,8100,88,12,OVR-00038,Chandni,1,2025-12,December 2025,Wednesday
+Chandni,2025-12-11,Flipkart,8100,98,18,OVR-00039,Chandni,1,2025-12,December 2025,Thursday
+Chandni,2025-12-12,Flipkart,8100,66,11,OVR-00040,Chandni,1,2025-12,December 2025,Friday
+Chandni,2025-12-15,Amazon/Flipkart,8100,47,14,OVR-00041,Chandni,1,2025-12,December 2025,Monday
+Chandni,2025-12-16,Amazon/Flipkart,8100,45,18,OVR-00042,Chandni,1,2025-12,December 2025,Tuesday
+Chandni,2025-12-17,Amazon/Flipkart,8100,36,9,OVR-00043,Chandni,1,2025-12,December 2025,Wednesday
+Chandni,2025-12-19,Amazon/Flipkart,8100,72,12,OVR-00044,Chandni,1,2025-12,December 2025,Friday
+Chandni,2025-12-22,Amazon/Flipkart,8100,61,17,OVR-00045,Chandni,1,2025-12,December 2025,Monday
+Chandni,2025-12-24,Amazon/Flipkart,8100,62,15,OVR-00046,Chandni,1,2025-12,December 2025,Wednesday
+Chandni,2025-12-26,Amazon/Flipkart,8100,62,12,OVR-00047,Chandni,1,2025-12,December 2025,Friday
+Chandni,2025-12-27,Amazon/Flipkart,8100,11,5,OVR-00048,Chandni,1,2025-12,December 2025,Saturday
+Chandni,2025-12-29,Flipkart,8100,56,10,OVR-00049,Chandni,1,2025-12,December 2025,Monday
+Chandni,2025-12-30,Flipkart,8100,53,12,OVR-00050,Chandni,1,2025-12,December 2025,Tuesday
+Chandni,2026-01-02,Flipkart,8100,120,14,OVR-00051,Chandni,1,2026-01,January 2026,Friday
+Chandni,2026-01-05,Flipkart,8100,60,7,OVR-00052,Chandni,1,2026-01,January 2026,Monday
+Chandni,2026-01-06,Amazon/Flipkart,6130,71,10,OVR-00053,Chandni,1,2026-01,January 2026,Tuesday
+Chandni,2026-01-07,Amazon,6130,61,8,OVR-00054,Chandni,1,2026-01,January 2026,Wednesday
+Chandni,2026-01-08,Amazon,6130,80,6,OVR-00055,Chandni,1,2026-01,January 2026,Thursday
+Chandni,2026-01-12,Amazon,8100,25,2,OVR-00056,Chandni,1,2026-01,January 2026,Monday
+Chandni,2026-01-14,Amazon,8100/6130,73,7,OVR-00057,Chandni,1,2026-01,January 2026,Wednesday
+Chandni,2026-01-16,Amazon,8100/6130,53,6,OVR-00058,Chandni,1,2026-01,January 2026,Friday
+Chandni,2026-01-19,Amazon,8100/6130,90,8,OVR-00059,Chandni,1,2026-01,January 2026,Monday
+Chandni,2026-01-20,Amazon,8100/6130/MLed,114,11,OVR-00060,Chandni,1,2026-01,January 2026,Tuesday
+Chandni,2026-01-21,Amazon,8100/6130,105,10,OVR-00061,Chandni,1,2026-01,January 2026,Wednesday
+Chandni,2026-01-22,Flipkart,8100/6130/MLed,125,15,OVR-00062,Chandni,1,2026-01,January 2026,Thursday
+Chandni,2026-01-23,Flipkart,8100/6130/MLed,98,13,OVR-00063,Chandni,1,2026-01,January 2026,Friday
+Chandni,2026-01-27,Flipkart,8100/6130/MLed,117,15,OVR-00064,Chandni,1,2026-01,January 2026,Tuesday
+Chandni,2026-01-28,Amazon/Flipkart,6130/MLed,112,14,OVR-00065,Chandni,1,2026-01,January 2026,Wednesday
+Chandni,2026-01-29,Flipkart,6130/MLed,104,11,OVR-00066,Chandni,1,2026-01,January 2026,Thursday
+Chandni,2026-01-30,Flipkart,6130/MLed,140,10,OVR-00067,Chandni,1,2026-01,January 2026,Friday
+Chandni,2026-01-31,Amazon/Flipkart,8100/6130,125,11,OVR-00068,Chandni,1,2026-01,January 2026,Saturday
+Chandni,2026-02-02,Amazon/Flipkart,8100,125,15,OVR-00069,Chandni,1,2026-02,February 2026,Monday
+Chandni,2026-02-03,Amazon/Flipkart,8100,144,16,OVR-00070,Chandni,1,2026-02,February 2026,Tuesday
+Chandni,2026-02-04,Amazon/Flipkart,8100/CMled,109,20,OVR-00071,Chandni,1,2026-02,February 2026,Wednesday
+Chandni,2026-02-05,Amazon/Flipkart,8100,130,18,OVR-00072,Chandni,1,2026-02,February 2026,Thursday
+Chandni,2026-02-06,Amazon/Flipkart,8100,107,15,OVR-00073,Chandni,1,2026-02,February 2026,Friday
+Chandni,2026-02-09,Amazon/Flipkart,8100,154,22,OVR-00074,Chandni,1,2026-02,February 2026,Monday
+Chandni,2026-02-10,Amazon/Flipkart,8100/6130,100,13,OVR-00075,Chandni,1,2026-02,February 2026,Tuesday
+Chandni,2026-02-11,Amazon/Flipkart,8100/6130,101,11,OVR-00076,Chandni,1,2026-02,February 2026,Wednesday
+Chandni,2026-02-12,Amazon/Flipkart,8100/6130,90,9,OVR-00077,Chandni,1,2026-02,February 2026,Thursday
+Chandni,2026-02-13,Amazon/Flipkart,8100/6130,100,11,OVR-00078,Chandni,1,2026-02,February 2026,Friday
+Chandni,2026-02-16,Amazon/Flipkart,8100/6130,100,15,OVR-00079,Chandni,1,2026-02,February 2026,Monday
+Chandni,2026-02-17,Flipkart,8100/6130,110,13,OVR-00080,Chandni,1,2026-02,February 2026,Tuesday
+Chandni,2026-02-18,Flipkart,6130,103,13,OVR-00081,Chandni,1,2026-02,February 2026,Wednesday
+Chandni,2026-02-19,Flipkart,6130,60,7,OVR-00082,Chandni,1,2026-02,February 2026,Thursday
+Chandni,2026-02-20,Amazon/Flipkart,8100/6130,100,13,OVR-00083,Chandni,1,2026-02,February 2026,Friday
+Chandni,2026-02-23,Flipkart,6130,47,7,OVR-00084,Chandni,1,2026-02,February 2026,Monday
+Chandni,2026-02-24,Amazon/Flipkart,8100/6130,60,14,OVR-00085,Chandni,1,2026-02,February 2026,Tuesday
+Chandni,2026-02-25,Amazon/Flipkart,8100/6130,100,19,OVR-00086,Chandni,1,2026-02,February 2026,Wednesday
+Chandni,2026-02-26,Amazon/Flipkart,8100/6130,100,18,OVR-00087,Chandni,1,2026-02,February 2026,Thursday
+Chandni,2026-02-27,Amazon/Flipkart,8100/6130,85,23,OVR-00088,Chandni,1,2026-02,February 2026,Friday
+Chandni,2026-03-02,Amazon/Flipkart,8100/6130,91,24,OVR-00089,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-03,Amazon/Flipkart,8100/6130,70,19,OVR-00090,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-06,Amazon/Flipkart,8100/6130,100,20,OVR-00091,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-09,Amazon/Flipkart,8100/6130,90,17,OVR-00092,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-10,Amazon,8100,50,8,OVR-00093,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-11,Amazon,8100/6130,97,21,OVR-00094,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-12,Amazon,8100/6130,100,16,OVR-00095,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-13,Amazon,8100/6130,100,15,OVR-00096,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-16,Amazon,8100/6130,100,14,OVR-00097,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-17,Amazon,8100/6130/Mini (Philips+Coocaa),117,19,OVR-00098,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-18,Amazon,8100/6130/MLED,127,22,OVR-00099,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-19,Amazon,8100/6130/MLED,118,19,OVR-00100,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-20,Amazon,8100/MLed/CMled,110,19,OVR-00101,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-23,Amazon,8100/CMix,101,18,OVR-00102,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-24,Amazon/Flipkart,8100/6130,100,20,OVR-00103,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-25,Amazon,8100/MLed,105,22,OVR-00104,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-26,Amazon,8100/MLed,103,18,OVR-00105,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-27,Amazon,8100/CMix,90,16,OVR-00106,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-28,Amazon,8100/CMix,80,17,OVR-00107,Chandni,1,2026-03,March 2026,Saturday
+Chandni,2026-03-30,Amazon,8100/CMix,121,19,OVR-00108,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-31,Amazon,CMix,120,14,OVR-00109,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-04-02,Amazon,8100/MLed,91,24,OVR-00110,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-03,Amazon,8100/MLed,70,19,OVR-00111,Chandni,1,2026-04,April 2026,Friday
+Chandni,2026-04-06,Amazon,8100/MLed,110,16,OVR-00112,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-07,Amazon,8100/6130/MLed/CMix,100,17,OVR-00113,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-08,Amazon,6130/MLed/CMix,90,18,OVR-00114,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-09,Amazon,8100/6130/MLed,100,19,OVR-00115,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-13,Amazon,8100/MLed,110,14,OVR-00116,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-14,Amazon,Coocaa,100,11,OVR-00117,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-15,Amazon,8100/MLed/Coocaa,130,27,OVR-00118,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-16,Amazon,8100/MLed/Coocaa,155,27,OVR-00119,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-17,Amazon,8100/MLed/Coocaa,93,18,OVR-00120,Chandni,1,2026-04,April 2026,Friday
+Chandni,2026-04-20,Amazon,8100/MLed,70,12,OVR-00121,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-21,Amazon,8100/MLed,80,9,OVR-00122,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-22,Amazon,8100/MLed/Coocaa,107,19,OVR-00123,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-23,Amazon,8100/MLed/CMix,70,9,OVR-00124,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-24,Amazon,8100/MLed,113,19,OVR-00125,Chandni,1,2026-04,April 2026,Friday
+Chandni,2026-04-25,Amazon,8100/MLed,100,21,OVR-00126,Chandni,1,2026-04,April 2026,Saturday
+Chandni,2026-04-27,Amazon,8100/MLed/Coocaa,100,22,OVR-00127,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-28,Amazon,8100/MLed/Coocaa,110,23,OVR-00128,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-29,Amazon,8100/CMix,88,18,OVR-00129,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-04,Amazon,8100/MLed,70,8,OVR-00130,Chandni,1,2026-04,April 2026,Saturday
+Chandni,2026-04-11,Amazon,8100/MLed,90,19,OVR-00131,Chandni,1,2026-04,April 2026,Saturday
+Chandni,2026-05-01,Flipkart,8100,100,15,OVR-00132,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-04,Flipkart,8100,80,13,OVR-00133,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-05,Flipkart,8100/CY74 Pro,101,20,OVR-00134,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-06,Flipkart,8100,100,15,OVR-00135,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-07,Flipkart,8100,50,8,OVR-00136,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-08,Amazon/Flipkart,8100,75,15,OVR-00137,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-12,Amazon/Flipkart,8100,100,18,OVR-00138,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-13,Amazon/Flipkart,8100,100,19,OVR-00139,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-14,Amazon/Flipkart,8100,184,23,OVR-00140,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-18,Amazon,Coocaa,104,12,OVR-00141,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-19,Amazon/Flipkart,8100/Coocaa,137,27,OVR-00142,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-20,Amazon,8100,75,8,OVR-00143,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-21,Amazon/Flipkart,8100/Coocaa Mini,100,15,OVR-00144,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-22,Amazon/Flipkart,8100/Coocaa Mini,105,18,OVR-00145,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-23,Flipkart,8100,107,16,OVR-00146,Chandni,1,2026-05,May 2026,Saturday
+Chandni,2026-05-24,Flipkart,8100,128,12,OVR-00147,Chandni,1,2026-05,May 2026,Sunday
+Chandni,2026-05-25,Amazon/Flipkart,8100,100,18,OVR-00148,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-26,Amazon/Flipkart,8100,103,14,OVR-00149,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-27,Amazon/Flipkart,8100,104,19,OVR-00150,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-28,Amazon/Flipkart,8100,120,22,OVR-00151,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-29,Amazon/Flipkart,8100,170,25,OVR-00152,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-30,Flipkart,8100,100,12,OVR-00153,Chandni,1,2026-05,May 2026,Saturday
+Chandni,2026-06-01,Amazon/Flipkart,Philips/Coocaa Mini,90,13,OVR-00154,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-02,Amazon/Flipkart,Philips/Coocaa Mini,126,19,OVR-00155,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-03,Flipkart,Coocaa Y74 Plus,103,12,OVR-00156,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-04,Flipkart,Coocaa Y74 Plus/CMiniled,100,16,OVR-00157,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-05,Flipkart,Philips Mled/CMix,108,19,OVR-00158,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-08,Flipkart,Coocaa Y74 Plus,90,10,OVR-00159,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-10,Flipkart,Philips/Coocaa Mini,100,11,OVR-00160,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-12,Amazon,8100,100,12,OVR-00161,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-15,Flipkart,Philips/Coocaa Mini,100,11,OVR-00162,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-16,Flipkart,Coocaa Mini,55,5,OVR-00163,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-17,Flipkart,Philips/Coocaa Mini,100,15,OVR-00164,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-18,Amazon,8100,100,15,OVR-00165,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-19,Amazon,8100/Philips Mini,100,17,OVR-00166,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-22,Amazon,8100,95,11,OVR-00167,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-23,Flipkart,Philips Mini/CY74 Plus/CY74 Pro,105,22,OVR-00168,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-24,Flipkart,CY74 Plus,120,15,OVR-00169,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-25,Flipkart,CY74 Plus,137,19,OVR-00170,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-26,Amazon,8100/6130,100,13,OVR-00171,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-29,Flipkart,CY74 Plus/Philips/Coocaa Mini,150,20,OVR-00172,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-30,Flipkart,CY74 Plus/Philips/Coocaa Mini,150,27,OVR-00173,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-07-01,Amazon/Flipkart,8100/Philips Mled/Coocaa Mini/CY74 Plus,130,21,OVR-00174,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-02,Amazon/Flipkart,Philips Mled/Coocaa Mini/8100,120,20,OVR-00175,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-03,Amazon/Flipkart,8100/Coocaa Y74 Plus,120,21,OVR-00176,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-06,Amazon,8100/6130/Mled,100,20,OVR-00177,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-07,Amazon/Flipkart,8100,100,17,OVR-00178,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-08,Amazon/Flipkart,8100/Philips Mled/Coocaa Mini,105,21,OVR-00179,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-09,Amazon/Flipkart,8100/Coocaa Mini,100,22,OVR-00180,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-13,Amazon/Flipkart,8100/Coocaa Mini,110,25,OVR-00181,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-15,Amazon,8100/6130/Coocaa Mini,130,25,OVR-00182,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-16,Amazon,8100/6130,100,16,OVR-00183,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-17,Amazon,8100/6130,110,14,OVR-00184,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-19,Amazon,8100/6130,100,14,OVR-00185,Chandni,1,2026-07,July 2026,Sunday
+Chandni,2026-07-21,Amazon/Flipkart,8100,200,33,OVR-00186,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-22,Amazon/Flipkart,8100/6130,100,14,OVR-00187,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-23,Amazon,8100/Coocaa Mini,110,15,OVR-00188,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-24,Amazon/Flipkart,8100,85,12,OVR-00189,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-27,Amazon/Flipkart,8100/6130,105,15,OVR-00190,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-28,Amazon,8100/6130/Coocaa Mini,150,25,OVR-00191,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-29,Amazon,8100/6130/Coocaa Mini,130,20,OVR-00192,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-30,Amazon,8100/6130/Philips Mled,110,17,OVR-00193,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-31,Amazon,8100/6130,132,24,OVR-00194,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-08-03,Amazon,8100/Coocaa Mini,100,16,OVR-00195,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-04,Amazon,6130/Coocaa Mini,100,14,OVR-00196,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-05,Amazon,8100/6130,100,12,OVR-00197,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-06,Amazon,6130/Coocaa Mini,60,9,OVR-00198,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-07,Amazon,6130/Coocaa Mini,100,13,OVR-00199,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-11,Amazon,6130/Coocaa Y74Plus,90,9,OVR-00200,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-12,Amazon,Philips Mled/Coocaa Y74 Plus/Miniled,101,12,OVR-00201,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-13,Amazon,6130/Coocaa Miniled,100,16,OVR-00202,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-14,Amazon,6130/Coocaa Miniled,100,15,OVR-00203,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-16,Amazon,6130/Coocaa Miniled,100,13,OVR-00204,Chandni,1,2026-08,August 2026,Sunday
+Chandni,2026-08-17,Amazon,6130/Coocaa Miniled,100,10,OVR-00205,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-18,Amazon,6130/Coocaa Miniled,105,8,OVR-00206,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-19,Amazon,6130/Coocaa Miniled,100,11,OVR-00207,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-21,Amazon,6130,100,12,OVR-00208,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-24,Amazon,6130,130,10,OVR-00209,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-25,Amazon,6130,160,14,OVR-00210,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-26,Amazon,6130,150,12,OVR-00211,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-27,Amazon,6130,170,13,OVR-00212,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-29,Amazon,6130,160,16,OVR-00213,Chandni,1,2026-08,August 2026,Saturday
+Chandni,2026-08-31,Amazon,6130,150,17,OVR-00214,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-09-02,Amazon,6130/Coocaa Miniled/Philips Mled,120,23,OVR-00215,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-03,Amazon,6130/Coocaa Miniled/Philips Mled,110,24,OVR-00216,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-07,Amazon,Philips Mled,100,10,OVR-00217,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-08,Amazon,Philips Mled,120,10,OVR-00218,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-09,Amazon,Coocaa Mini,120,12,OVR-00219,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-10,Amazon,Coocaa Mini,111,14,OVR-00220,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-14,Amazon,6130/8100/Coocaa Mini,120,11,OVR-00221,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-15,Amazon,6130/8100/Coocaa Mini,130,13,OVR-00222,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-16,Amazon,6130/8100/Coocaa Mini,120,20,OVR-00223,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-17,Amazon,6130/8100/Coocaa Mini,120,17,OVR-00224,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-18,Amazon,6130/8100/Coocaa Mini,120,12,OVR-00225,Chandni,1,2026-09,September 2026,Friday
+Chandni,2026-09-21,Amazon,6130/8100/Coocaa Mini,100,14,OVR-00226,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-22,Amazon,6130/8100/Coocaa Mini,100,15,OVR-00227,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-23,Amazon,6130/8100/Coocaa Mini,100,12,OVR-00228,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-24,Amazon,8100/Coocaa Mini,100,15,OVR-00229,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-25,Amazon,8100/Coocaa Mini,130,25,OVR-00230,Chandni,1,2026-09,September 2026,Friday
+Chandni,2026-09-26,Amazon,8100/Coocaa Mini,120,20,OVR-00231,Chandni,1,2026-09,September 2026,Saturday
+Chandni,2026-09-28,Amazon,8100/Coocaa Mini,120,15,OVR-00232,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-29,Amazon,8100/Coocaa Mini,120,25,OVR-00233,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-30,Amazon,8100/Coocaa Mini,130,20,OVR-00234,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-10-01,Unknown,Unknown,0,0,OVR-00235,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-01,Amazon,6130,120,12,OVR-00236,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-05,Amazon,6130,120,18,OVR-00237,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-06,Amazon,6130,120,11,OVR-00238,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-07,Amazon,6130,120,14,OVR-00239,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-08,Amazon,6130,120,18,OVR-00240,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-09,Amazon,6130,120,9,OVR-00241,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-12,Amazon,6130,120,12,OVR-00242,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-13,Amazon,8100/6130/Coocaa Mini,120,17,OVR-00243,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-14,Amazon,8100/6130/Coocaa Mini,120,15,OVR-00244,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-15,Amazon,8100/6130/Coocaa Mini,120,12,OVR-00245,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-16,Amazon,8100/6130/Coocaa Mini,120,5,OVR-00246,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-20,Amazon,8100/Philips Mled,120,10,OVR-00247,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-21,Amazon,8100/Philips Mled,100,12,OVR-00248,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-22,Amazon,8100/Philips Mled,120,12,OVR-00249,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-23,Amazon,8100/Philips Mled,120,8,OVR-00250,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-27,Amazon,8100/Philips Mled/Coocaa Mini,120,10,OVR-00251,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-28,Amazon,8100/Philips Mled/Coocaa Mini,110,8,OVR-00252,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-29,Amazon,8100/Philips Mled/Coocaa Mini,110,8,OVR-00253,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-11-04,Amazon,8100/6130/Coocaa Mini,100,12,OVR-00254,Chandni,1,2026-11,November 2026,Wednesday
+Chandni,2026-11-05,Amazon,8100/6130/Coocaa Mini,100,18,OVR-00255,Chandni,1,2026-11,November 2026,Thursday
+Chandni,2026-11-06,Amazon,8100/6130/Coocaa Mini,100,11,OVR-00256,Chandni,1,2026-11,November 2026,Friday
+Chandni,2026-11-12,Amazon,8100/6130/Coocaa Mini,100,14,OVR-00257,Chandni,1,2026-11,November 2026,Thursday
+Chandni,2026-11-13,Amazon,8100/6130/Coocaa Mini,100,18,OVR-00258,Chandni,1,2026-11,November 2026,Friday
+Chandni,2026-11-16,Amazon,8100/6130/Coocaa Mini,100,9,OVR-00259,Chandni,1,2026-11,November 2026,Monday
+Chandni,2026-11-17,Amazon,8100/6130/Coocaa Mini,100,12,OVR-00260,Chandni,1,2026-11,November 2026,Tuesday
+Chandni,2026-11-18,Amazon,8100/Philips Mled,100,17,OVR-00261,Chandni,1,2026-11,November 2026,Wednesday
+Chandni,2026-11-19,Amazon,8100/Philips Mled,100,15,OVR-00262,Chandni,1,2026-11,November 2026,Thursday
+Chandni,2026-11-20,Amazon,8100/Philips Mled,100,12,OVR-00263,Chandni,1,2026-11,November 2026,Friday
+Chandni,2026-11-23,Amazon,8100/Philips Mled,100,5,OVR-00264,Chandni,1,2026-11,November 2026,Monday
+Chandni,2026-11-24,Amazon,8100/Philips Mled,100,10,OVR-00265,Chandni,1,2026-11,November 2026,Tuesday
+Chandni,2026-11-25,Amazon,8100/Philips Mled,100,12,OVR-00266,Chandni,1,2026-11,November 2026,Wednesday
+Chandni,2026-11-26,Amazon,8100/Philips Mled,100,12,OVR-00267,Chandni,1,2026-11,November 2026,Thursday
+Chandni,2026-11-27,Amazon,8100/Philips Mled,100,8,OVR-00268,Chandni,1,2026-11,November 2026,Friday
+Chandni,2026-11-28,Amazon,8100/Philips Mled/Coocaa Mini,100,10,OVR-00269,Chandni,1,2026-11,November 2026,Saturday
+Chandni,2026-11-30,Amazon,8100/Philips Mled/Coocaa Mini,100,8,OVR-00270,Chandni,1,2026-11,November 2026,Monday
+Chandni,2026-03-10,Flipkart,8100 (philips),25,3,OVR-00271,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-11,Flipkart,6130 (philips),103,9,OVR-00272,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-12,Flipkart,6130 (philips),156,17,OVR-00273,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-13,Flipkart,flipkart 6130 (philips),145,20,OVR-00274,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-16,Flipkart,6130 (philips),124,10,OVR-00275,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-17,Flipkart,f6130 (philips),130,14,OVR-00276,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-18,Flipkart,6130 (philips),147,16,OVR-00277,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-19,Flipkart,6130 (philips),80,12,OVR-00278,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-20,Flipkart,6130 (philips)/coocaa mini led,115,14,OVR-00279,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-23,Flipkart,6130 (philips),153,17,OVR-00280,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-24,Flipkart,6130 (philips),119,19,OVR-00281,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-03-25,Flipkart,6130 (philips),135,20,OVR-00282,Chandni,1,2026-03,March 2026,Wednesday
+Chandni,2026-03-26,Flipkart,6130 (philips),93,14,OVR-00283,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-27,Flipkart,6130/8100 (philips),137,16,OVR-00284,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-28,Flipkart,6130 (philips),132,15,OVR-00285,Chandni,1,2026-03,March 2026,Saturday
+Chandni,2026-03-30,Flipkart,6130/8100 (philips),103,20,OVR-00286,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-31,Flipkart,8100 (philips),126,13,OVR-00287,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-04-01,Flipkart,6130/8100 (philips),158,21,OVR-00288,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-09-01,Flipkart,y74 plus coocaa,110,11,OVR-00289,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-02,Flipkart,y74 plus coocaa,106,9,OVR-00290,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-03,Flipkart,y74 plus coocaa,127,10,OVR-00291,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-07,Flipkart,y74 plus coocaa,112,10,OVR-00292,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-08,Flipkart,y74 plus coocaa,109,12,OVR-00293,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-09,Flipkart,y74 plus coocaa,113,11,OVR-00294,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-10,Flipkart,y74 plus coocaa,124,13,OVR-00295,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-11,Flipkart,y74 plus coocaa,52,6,OVR-00296,Chandni,1,2026-09,September 2026,Friday
+Chandni,2026-09-14,Flipkart,y74 plus coocaa/6130 philips,126,15,OVR-00297,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-15,Flipkart,y74 plus coocaa/6130 philips,107,13,OVR-00298,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-17,Flipkart,y74 plus coocaa/6130 philips,112,10,OVR-00299,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-18,Flipkart,y74 plus coocaa/6130 philips,103,12,OVR-00300,Chandni,1,2026-09,September 2026,Friday
+Chandni,2026-09-21,Flipkart,y74 plus coocaa/6130 philips,53,5,OVR-00301,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-22,Flipkart/Amazon,y74 plus coocaa/6130 philips/mini led coocaa,132,15,OVR-00302,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-23,Flipkart/Amazon,y74 plus coocaa/6130 philips/mini led coocaa,126,14,OVR-00303,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-09-24,Flipkart/Amazon,y74 plus coocaa/6130 philips,84,13,OVR-00304,Chandni,1,2026-09,September 2026,Thursday
+Chandni,2026-09-25,Flipkart/Amazon,y74 plus coocaa/6130 philips/mini led coocaa,86,16,OVR-00305,Chandni,1,2026-09,September 2026,Friday
+Chandni,2026-09-26,Flipkart/Amazon,y74 plus coocaa/6130 philips,94,13,OVR-00306,Chandni,1,2026-09,September 2026,Saturday
+Chandni,2026-09-28,Flipkart,y74 plus coocaa/6130 philips/mini led coocaa,21,4,OVR-00307,Chandni,1,2026-09,September 2026,Monday
+Chandni,2026-09-29,Flipkart,y74 plus coocaa/6130 philips,81,8,OVR-00308,Chandni,1,2026-09,September 2026,Tuesday
+Chandni,2026-09-30,Flipkart,y74 plus coocaa/6130 philips,72,0,OVR-00309,Chandni,1,2026-09,September 2026,Wednesday
+Chandni,2026-03-26,Flipkart,6130 (philips),76,13,OVR-00310,Chandni,1,2026-03,March 2026,Thursday
+Chandni,2026-03-27,Flipkart,6130/8100 (philips),153,15,OVR-00311,Chandni,1,2026-03,March 2026,Friday
+Chandni,2026-03-28,Flipkart,6130 (philips),132,13,OVR-00312,Chandni,1,2026-03,March 2026,Saturday
+Chandni,2026-03-30,Flipkart,6130/8100 (philips),120,18,OVR-00313,Chandni,1,2026-03,March 2026,Monday
+Chandni,2026-03-31,Flipkart,8100 (philips),126,12,OVR-00314,Chandni,1,2026-03,March 2026,Tuesday
+Chandni,2026-04-02,Flipkart,6130 (philips),84,13,OVR-00315,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-06,Flipkart,6130 (philips),77,11,OVR-00316,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-07,Flipkart,6130 (philips),105,24,OVR-00317,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-08,Flipkart,6130 (philips),93,15,OVR-00318,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-09,Flipkart,6130 (philips),127,14,OVR-00319,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-10,Flipkart,6130/8100 (philips),110,14,OVR-00320,Chandni,1,2026-04,April 2026,Friday
+Chandni,2026-04-13,Flipkart,6130 (philips),130,15,OVR-00321,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-14,Flipkart,6130/8100 (philips),111,12,OVR-00322,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-15,Flipkart,"6130 (philips)/y74 plus,q74 (coocaa)",162,15,OVR-00323,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-16,Flipkart,"6130 (philips)/y74 plus,q74 (coocaa)",140,9,OVR-00324,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-04-17,Flipkart,6130 (philips)/y74 plus(coocaa),118,13,OVR-00325,Chandni,1,2026-04,April 2026,Friday
+Chandni,2026-04-20,Flipkart,6130 (philips)/y74 plus(coocaa),155,15,OVR-00326,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-21,Flipkart,mini led (philips)/ mini led (coocaa),122,13,OVR-00327,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-22,Flipkart,mini led (philips)/ mini led (coocaa),117,17,OVR-00328,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-25,Flipkart,y74 plus/Y74 pro (coocaa),117,10,OVR-00329,Chandni,1,2026-04,April 2026,Saturday
+Chandni,2026-04-27,Flipkart,y74 plus/Y74 pro/mini led (coocaa),137,12,OVR-00330,Chandni,1,2026-04,April 2026,Monday
+Chandni,2026-04-28,Flipkart,y74 plus/Y74 pro/mini led (coocaa),130,8,OVR-00331,Chandni,1,2026-04,April 2026,Tuesday
+Chandni,2026-04-29,Flipkart,y74 plus/Y74 pro (coocaa),116,15,OVR-00332,Chandni,1,2026-04,April 2026,Wednesday
+Chandni,2026-04-30,Flipkart,74 plus/Y74 pro (coocaa),110,9,OVR-00333,Chandni,1,2026-04,April 2026,Thursday
+Chandni,2026-05-01,Flipkart,y74 plus/Y74 pro (coocaa),89,15,OVR-00334,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-04,Flipkart,y74 plus/Y74 pro (coocaa)/8100(philips),84,13,OVR-00335,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-05,Flipkart,y74 plus/8100(philips),95,16,OVR-00336,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-06,Flipkart,8100(philips),103,12,OVR-00337,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-07,Flipkart,8100(philips),110,13,OVR-00338,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-08,Flipkart,8100(philips),98,16,OVR-00339,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-11,Flipkart,8100(philips),109,12,OVR-00340,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-12,Flipkart,y74 plus/8100(philips),110,13,OVR-00341,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-13,Flipkart,8100(philips),95,15,OVR-00342,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-14,Flipkart,8100(philips),89,12,OVR-00343,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-15,Flipkart,8100(philips),108,16,OVR-00344,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-18,Flipkart,8100(philips),84,13,OVR-00345,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-19,Flipkart,8100(philips),78,16,OVR-00346,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-20,Flipkart,8100(philips),120,14,OVR-00347,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-21,Flipkart,8100(philips),92,14,OVR-00348,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-05-22,Flipkart,8100(philips),110,16,OVR-00349,Chandni,1,2026-05,May 2026,Friday
+Chandni,2026-05-25,Flipkart,8100(philips),88,12,OVR-00350,Chandni,1,2026-05,May 2026,Monday
+Chandni,2026-05-26,Flipkart,8100(philips),95,13,OVR-00351,Chandni,1,2026-05,May 2026,Tuesday
+Chandni,2026-05-27,Flipkart,8100(philips),107,12,OVR-00352,Chandni,1,2026-05,May 2026,Wednesday
+Chandni,2026-05-28,Flipkart,8100(philips),87,14,OVR-00353,Chandni,1,2026-05,May 2026,Thursday
+Chandni,2026-06-01,Flipkart,6130 (philips),81,10,OVR-00354,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-02,Flipkart,6130 (philips),116,12,OVR-00355,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-08,Flipkart,6130 (philips),95,14,OVR-00356,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-09,Flipkart,6130 (philips),87,12,OVR-00357,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-10,Flipkart,6130 (philips),104,15,OVR-00358,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-11,Flipkart,6130 (philips),98,12,OVR-00359,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-15,Flipkart,6130 (philips),123,17,OVR-00360,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-16,Flipkart,6130 (philips),106,13,OVR-00361,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-17,Flipkart,6130 (philips),121,20,OVR-00362,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-18,Flipkart,6130 (philips),89,10,OVR-00363,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-19,Flipkart,6130 (philips),108,16,OVR-00364,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-22,Flipkart,6130 (philips),96,12,OVR-00365,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-23,Flipkart,6130 (philips),120,15,OVR-00366,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-06-24,Flipkart,6130 (philips),93,12,OVR-00367,Chandni,1,2026-06,June 2026,Wednesday
+Chandni,2026-06-25,Flipkart,6130 (philips),70,8,OVR-00368,Chandni,1,2026-06,June 2026,Thursday
+Chandni,2026-06-26,Flipkart,6130 (philips),115,16,OVR-00369,Chandni,1,2026-06,June 2026,Friday
+Chandni,2026-06-27,Flipkart,6130 (philips),98,12,OVR-00370,Chandni,1,2026-06,June 2026,Saturday
+Chandni,2026-06-29,Flipkart,6130 (philips),102,16,OVR-00371,Chandni,1,2026-06,June 2026,Monday
+Chandni,2026-06-30,Flipkart,6130 (philips),105,14,OVR-00372,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-07-01,Flipkart,6130 (philips),93,16,OVR-00373,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-06-02,Flipkart,6130 (philips),101,13,OVR-00374,Chandni,1,2026-06,June 2026,Tuesday
+Chandni,2026-07-03,Flipkart,6130 (philips)/mini led(philips),127,18,OVR-00375,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-06,Flipkart,6130 (philips)/mini led(philips),123,16,OVR-00376,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-07,Flipkart,6130 (philips)/mini led(philips),100,11,OVR-00377,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-08,Flipkart,6130 (philips)/mini led(philips)/(coocaa),85,13,OVR-00378,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-09,Flipkart,6130 (philips)/mini led(philips),113,14,OVR-00379,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-10,Flipkart,6130 (philips)/mini led(philips),89,13,OVR-00380,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-15,Flipkart,6130 (philips)/mini led(philips),115,13,OVR-00381,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-16,Flipkart,6130 (philips)/mini led(philips),118,15,OVR-00382,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-17,Flipkart,6130 (philips),70,8,OVR-00383,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-18,Flipkart,6130 (philips)/mini led(philips),133,15,OVR-00384,Chandni,1,2026-07,July 2026,Saturday
+Chandni,2026-07-19,Flipkart,6130 (philips)/mini led(philips),104,12,OVR-00385,Chandni,1,2026-07,July 2026,Sunday
+Chandni,2026-07-20,Flipkart,6130 (philips),71,8,OVR-00386,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-21,Flipkart/Amazon,6130 (philips),126,13,OVR-00387,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-22,Flipkart/Amazon,6130 (philips),114,13,OVR-00388,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-23,Flipkart/Amazon,6130 (philips)/miniled(coocaa/amazon),143,15,OVR-00389,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-24,Flipkart/Amazon,6130 (philips)/miniled(coocaa/amazon),141,13,OVR-00390,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-07-25,Flipkart,6130 (philips),72,7,OVR-00391,Chandni,1,2026-07,July 2026,Saturday
+Chandni,2026-07-27,Flipkart,6130/8100(philips)/mini led(philips),108,9,OVR-00392,Chandni,1,2026-07,July 2026,Monday
+Chandni,2026-07-28,Flipkart,6130/8100(philips)/mini led(philips),128,15,OVR-00393,Chandni,1,2026-07,July 2026,Tuesday
+Chandni,2026-07-29,Flipkart/Amazon,6130/8100(philips)/mini led(coocaa),135,16,OVR-00394,Chandni,1,2026-07,July 2026,Wednesday
+Chandni,2026-07-30,Flipkart/Amazon,6130 (philips)/mini led (coocaa),94,11,OVR-00395,Chandni,1,2026-07,July 2026,Thursday
+Chandni,2026-07-31,Flipkart,6130 (philips),104,13,OVR-00396,Chandni,1,2026-07,July 2026,Friday
+Chandni,2026-08-03,Flipkart,y74 plus coocaa/mini led coocaa,93,12,OVR-00397,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-04,Flipkart,6130 (philips)/y74plus coocaa,104,11,OVR-00398,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-05,Flipkart,6130 (philips)/y74 plus,114,13,OVR-00399,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-06,Flipkart,6130 (philips)/mini led coocaa,91,13,OVR-00400,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-07,Flipkart,6130 (philips)/y74 plus coocaa,108,12,OVR-00401,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-10,Flipkart,6130 (philips)/mini led(philips)/(coocaa),114,13,OVR-00402,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-12,Flipkart,6130 (philips)/y74 plus coocaa,113,14,OVR-00403,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-13,Flipkart,6130 (philips)/y74 plus coocaa,109,12,OVR-00404,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-14,Flipkart,6130 (philips)/y74 plus coocaa,93,14,OVR-00405,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-17,Flipkart,6130 (philips)/y74 plus coocaa,117,12,OVR-00406,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-18,Flipkart,6130 (philips)/y74 plus,115,14,OVR-00407,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-19,Flipkart,6130 (philips)/mini led(philips),104,11,OVR-00408,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-20,Flipkart,y74 plus /mini led coocaa,127,19,OVR-00409,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-21,Flipkart,y74 plus /mini led coocaa,106,15,OVR-00410,Chandni,1,2026-08,August 2026,Friday
+Chandni,2026-08-22,Flipkart/Amazon,y74 plus /mini led coocaa,129,15,OVR-00411,Chandni,1,2026-08,August 2026,Saturday
+Chandni,2026-08-24,Flipkart/Amazon,y74 plus /mini led coocaa,117,14,OVR-00412,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-08-25,Flipkart/Amazon,y74 plus / philips 6130,120,11,OVR-00413,Chandni,1,2026-08,August 2026,Tuesday
+Chandni,2026-08-26,Flipkart/Amazon,y74 plus / philips 6130,149,13,OVR-00414,Chandni,1,2026-08,August 2026,Wednesday
+Chandni,2026-08-27,Flipkart,y74 plus coocaa,127,12,OVR-00415,Chandni,1,2026-08,August 2026,Thursday
+Chandni,2026-08-29,Flipkart,y74 plus coocaa,143,18,OVR-00416,Chandni,1,2026-08,August 2026,Saturday
+Chandni,2026-08-31,Flipkart,y74 plus coocaa,110,12,OVR-00417,Chandni,1,2026-08,August 2026,Monday
+Chandni,2026-10-01,Flipkart/Amazon,6130 philips,100,11,OVR-00418,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-05,Flipkart/Amazon,6130 philips,106,13,OVR-00419,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-06,Flipkart/Amazon,6130 philips/y74plus,95,15,OVR-00420,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-07,Flipkart/Amazon,6130 philips/y74plus,87,10,OVR-00421,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-08,Flipkart/Amazon,6130 philips/coocaa mini led,110,13,OVR-00422,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-09,Flipkart/Amazon,6130 philips/coocaa mini led,84,12,OVR-00423,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-12,Flipkart/Amazon,6130 philips/coocaa mini led,96,11,OVR-00424,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-13,Flipkart/Amazon,6130 philips/coocaa mini led,92,9,OVR-00425,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-14,Flipkart/Amazon,6130 philips/coocaa mini led,81,13,OVR-00426,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-15,Flipkart/Amazon,6130 philips,89,11,OVR-00427,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-16,Flipkart/Amazon,6130 philips,102,10,OVR-00428,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-19,Flipkart/Amazon,6130 philips,103,8,OVR-00429,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-21,Flipkart/Amazon,6130 philips/8100,91,12,OVR-00430,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-22,Flipkart/Amazon,6130 philips/8100,93,12,OVR-00431,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-23,Flipkart/Amazon,6130 philips/8100,100,13,OVR-00432,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-26,Flipkart/Amazon,6130 philips,89,11,OVR-00433,Chandni,1,2026-10,October 2026,Monday
+Chandni,2026-10-27,Flipkart/Amazon,6130 philips,86,12,OVR-00434,Chandni,1,2026-10,October 2026,Tuesday
+Chandni,2026-10-28,Flipkart/Amazon,6130 philips,96,13,OVR-00435,Chandni,1,2026-10,October 2026,Wednesday
+Chandni,2026-10-29,Flipkart/Amazon,6130 philips,101,12,OVR-00436,Chandni,1,2026-10,October 2026,Thursday
+Chandni,2026-10-30,Flipkart/Amazon,6130 philips/y74 pro,112,14,OVR-00437,Chandni,1,2026-10,October 2026,Friday
+Chandni,2026-10-31,Flipkart/Amazon,6130 philips/y74pro,123,15,OVR-00438,Chandni,1,2026-10,October 2026,Saturday
+Sorav,2025-11-20,Flipkart,philips 8100,77,13,OVR-00439,Sorav,0,2025-11,November 2025,Thursday
+Sorav,2025-11-21,Flipkart,philips 8100,84,16,OVR-00440,Sorav,0,2025-11,November 2025,Friday
+Sorav,2025-11-22,Flipkart,philips 8100,74,16,OVR-00441,Sorav,0,2025-11,November 2025,Saturday
+Sorav,2025-11-23,Flipkart,philips 8100,77,11,OVR-00442,Sorav,0,2025-11,November 2025,Sunday
+Sorav,2025-11-24,Flipkart,philips 8100,98,13,OVR-00443,Sorav,0,2025-11,November 2025,Monday
+Sorav,2025-11-25,Flipkart,philips 8100,76,11,OVR-00444,Sorav,0,2025-11,November 2025,Tuesday
+Sorav,2025-11-26,Flipkart,philips 8100,87,13,OVR-00445,Sorav,0,2025-11,November 2025,Wednesday
+Sorav,2026-01-07,Flipkart,6130 philips,79,12,OVR-00446,Sorav,0,2026-01,January 2026,Wednesday
+Sorav,2026-01-09,Flipkart,6131 philips,68,9,OVR-00447,Sorav,0,2026-01,January 2026,Friday
+Sorav,2026-01-19,Flipkart,6132 philips,73,11,OVR-00448,Sorav,0,2026-01,January 2026,Monday
+Sorav,2026-01-20,Flipkart,6133 philips,77,13,OVR-00449,Sorav,0,2026-01,January 2026,Tuesday
+Sorav,2026-01-23,Flipkart,6134 philips,84,16,OVR-00450,Sorav,0,2026-01,January 2026,Friday
+Sorav,2026-01-28,Flipkart,6135 philips,74,16,OVR-00451,Sorav,0,2026-01,January 2026,Wednesday
+Sorav,2026-01-29,Flipkart,6136 philips,77,11,OVR-00452,Sorav,0,2026-01,January 2026,Thursday
+Sorav,2026-03-12,Flipkart,8100,134,19,OVR-00453,Sorav,0,2026-03,March 2026,Thursday
+Sorav,2026-03-13,Flipkart,8100,121,14,OVR-00454,Sorav,0,2026-03,March 2026,Friday
+Sorav,2026-03-14,Flipkart,8100,84,11,OVR-00455,Sorav,0,2026-03,March 2026,Saturday
+Sorav,2026-03-15,Flipkart,8100,107,12,OVR-00456,Sorav,0,2026-03,March 2026,Sunday
+Sorav,2026-03-16,Flipkart,8100,124,13,OVR-00457,Sorav,0,2026-03,March 2026,Monday
+Sorav,2026-03-17,Flipkart,8100,152,21,OVR-00458,Sorav,0,2026-03,March 2026,Tuesday
+Sorav,2026-03-18,Flipkart,8100 & MLED,146,28,OVR-00459,Sorav,0,2026-03,March 2026,Wednesday
+Sorav,2026-03-19,Flipkart,8100 & MLED,156,19,OVR-00460,Sorav,0,2026-03,March 2026,Thursday
+Sorav,2026-03-20,Flipkart,8100 & MLED,121,14,OVR-00461,Sorav,0,2026-03,March 2026,Friday
+Sorav,2026-03-23,Flipkart,8100 & MLED,185,17,OVR-00462,Sorav,0,2026-03,March 2026,Monday
+Sorav,2026-03-24,Flipkart,"MLED(coocaa & philips) , Y74 PLUS & Q74",158,32,OVR-00463,Sorav,0,2026-03,March 2026,Tuesday
+Sorav,2026-03-25,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q75",207,29,OVR-00464,Sorav,0,2026-03,March 2026,Wednesday
+Sorav,2026-03-26,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q76",165,34,OVR-00465,Sorav,0,2026-03,March 2026,Thursday
+Sorav,2026-03-28,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q76",163,21,OVR-00466,Sorav,0,2026-03,March 2026,Saturday
+Sorav,2026-03-30,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q76",139,22,OVR-00467,Sorav,0,2026-03,March 2026,Monday
+Sorav,2026-03-31,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q76",90,21,OVR-00468,Sorav,0,2026-03,March 2026,Tuesday
+Sorav,2026-03-26,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q74",165,34,OVR-00469,Sorav,0,2026-03,March 2026,Thursday
+Sorav,2026-03-27,Flipkart,PHILIPS- PQT8100 & COOCAA-50S4U PLUS,123,14,OVR-00470,Sorav,0,2026-03,March 2026,Friday
+Sorav,2026-03-28,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q74",163,21,OVR-00471,Sorav,0,2026-03,March 2026,Saturday
+Sorav,2026-03-30,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q74",139,22,OVR-00472,Sorav,0,2026-03,March 2026,Monday
+Sorav,2026-03-31,Flipkart,"MLED(coocaa & philips), Y74 PLUS & Q74",90,21,OVR-00473,Sorav,0,2026-03,March 2026,Tuesday
+Sorav,2026-04-01,Flipkart,"MLED(coocaa & philips), Y74 PLUS",156,19,OVR-00474,Sorav,0,2026-04,April 2026,Wednesday
+Sorav,2026-04-02,Flipkart,"MLED(coocaa & philips), Y74 PLUS",141,17,OVR-00475,Sorav,0,2026-04,April 2026,Thursday
+Sorav,2026-04-03,Flipkart,"MLED(coocaa & philips), Q74",137,17,OVR-00476,Sorav,0,2026-04,April 2026,Friday
+Sorav,2026-04-06,Flipkart,PHILIPS- PQT8100 & COOCAA-50S4U PLUS,115,11,OVR-00477,Sorav,0,2026-04,April 2026,Monday
+Sorav,2026-04-07,Flipkart,"MLED(coocaa & philips), Q74",150,21,OVR-00478,Sorav,0,2026-04,April 2026,Tuesday
+Sorav,2026-04-08,Flipkart,"MLED(coocaa & philips), Q74",166,19,OVR-00479,Sorav,0,2026-04,April 2026,Wednesday
+Sorav,2026-04-09,Flipkart,PHILIPS(MLED) & Q74,128,20,OVR-00480,Sorav,0,2026-04,April 2026,Thursday
+Sorav,2026-04-10,Flipkart,PHILIPS(MLED) & Q74,100,17,OVR-00481,Sorav,0,2026-04,April 2026,Friday
+Sorav,2026-04-13,Flipkart,PHILIPS(MLED) & PHILIPS- PQT8100,127,16,OVR-00482,Sorav,0,2026-04,April 2026,Monday
+Sorav,2026-04-14,Flipkart,PHILIPS- PQT8100 & COOCAA-50S4U PLUS,119,17,OVR-00483,Sorav,0,2026-04,April 2026,Tuesday
+Sorav,2026-04-15,Flipkart,"PHILIPS- PQT8100, COOCAA-50S4U PLUS & MLED(coocaa & philips)",159,25,OVR-00484,Sorav,0,2026-04,April 2026,Wednesday
+Sorav,2026-04-16,Flipkart,PHILIPS- 50PQT8100 & PHILIPS(65MLED),145,20,OVR-00485,Sorav,0,2026-04,April 2026,Thursday
+Sorav,2026-04-17,Flipkart,PHILIPS- 50PQT8100 &  55Y74 PRO(COOCAA),110,14,OVR-00486,Sorav,0,2026-04,April 2026,Friday
+Sorav,2026-04-20,Flipkart,PHILIPS- PQT8100( FLIPKART),75,8,OVR-00487,Sorav,0,2026-04,April 2026,Monday
+Sorav,2026-04-21,Flipkart,AMAZON- PHILIPS(8100),118,9,OVR-00488,Sorav,0,2026-04,April 2026,Tuesday
+Sorav,2026-04-22,Flipkart,AMAZON- PHILIPS(8100),121,12,OVR-00489,Sorav,0,2026-04,April 2026,Wednesday
+Sorav,2026-04-23,Flipkart,AMAZON- PHILIPS(8100),115,12,OVR-00490,Sorav,0,2026-04,April 2026,Thursday
+Sorav,2026-04-24,Flipkart,AMAZON- PHILIPS(8100),120,14,OVR-00491,Sorav,0,2026-04,April 2026,Friday
+Sorav,2026-04-25,Flipkart,AMAZON- PHILIPS(8100),134,16,OVR-00492,Sorav,0,2026-04,April 2026,Saturday
+Sorav,2026-04-27,Flipkart,PHILIPS- PQT8100( FLIPKART),93,9,OVR-00493,Sorav,0,2026-04,April 2026,Monday
+Sorav,2026-04-28,Flipkart,PHILIPS- PQT8100( FLIPKART),87,13,OVR-00494,Sorav,0,2026-04,April 2026,Tuesday
+Sorav,2026-04-29,Flipkart,PHILIPS- PQT8100( FLIPKART),91,14,OVR-00495,Sorav,0,2026-04,April 2026,Wednesday
+Sorav,2026-04-30,Flipkart,PHILIPS- PQT8100( FLIPKART),90,12,OVR-00496,Sorav,0,2026-04,April 2026,Thursday
+Sorav,2026-04-25,Flipkart,PHILIPS- PQT8100( FLIPKART),134,16,OVR-00497,Sorav,0,2026-04,April 2026,Saturday
+Sorav,2026-05-01,Flipkart,PHILIPS- PQT8100( FLIPKART),85,13,OVR-00498,Sorav,0,2026-05,May 2026,Friday
+Sorav,2026-05-06,Flipkart,PHILIPS- PQT8100( FLIPKART),83,13,OVR-00499,Sorav,0,2026-05,May 2026,Wednesday
+Sorav,2026-05-07,Flipkart,PHILIPS- PQT8100( FLIPKART),88,13,OVR-00500,Sorav,0,2026-05,May 2026,Thursday
+Sorav,2026-05-08,Flipkart,PHILIPS- PQT8100( FLIPKART),90,14,OVR-00501,Sorav,0,2026-05,May 2026,Friday
+Sorav,2026-05-12,Flipkart,PHILIPS- PQT8100( FLIPKART),76,13,OVR-00502,Sorav,0,2026-05,May 2026,Tuesday
+Sorav,2026-05-13,Flipkart,PHILIPS- PQT8100( FLIPKART),81,14,OVR-00503,Sorav,0,2026-05,May 2026,Wednesday
+Sorav,2026-05-14,Flipkart,PHILIPS- PQT8100( FLIPKART),101,11,OVR-00504,Sorav,0,2026-05,May 2026,Thursday
+Sorav,2026-05-15,Flipkart,PHILIPS- PQT8100( FLIPKART),92,10,OVR-00505,Sorav,0,2026-05,May 2026,Friday
+Sorav,2026-05-16,Flipkart,WEEKEND PHILIPS- PQT8100( FLIPKART),81,13,OVR-00506,Sorav,0,2026-05,May 2026,Saturday
+Sorav,2026-05-17,Flipkart,WEEKEND PHILIPS- PQT8100( FLIPKART),90,10,OVR-00507,Sorav,0,2026-05,May 2026,Sunday
+Sorav,2026-05-18,Flipkart,PHILIPS- PQT8100( FLIPKART),89,10,OVR-00508,Sorav,0,2026-05,May 2026,Monday
+Sorav,2026-05-19,Flipkart,PHILIPS- PQT8100( FLIPKART),79,9,OVR-00509,Sorav,0,2026-05,May 2026,Tuesday
+Sorav,2026-05-20,Flipkart,PHILIPS- PQT8100( FLIPKART),66,8,OVR-00510,Sorav,0,2026-05,May 2026,Wednesday
+Sorav,2026-05-21,Flipkart,PHILIPS- PQT8100( FLIPKART),88,11,OVR-00511,Sorav,0,2026-05,May 2026,Thursday
+Sorav,2026-05-22,Flipkart,PHILIPS- PQT8100( FLIPKART),118,16,OVR-00512,Sorav,0,2026-05,May 2026,Friday
+Sorav,2026-05-23,Flipkart,WEEKEND PHILIPS- PQT8100( FLIPKART),81,13,OVR-00513,Sorav,0,2026-05,May 2026,Saturday
+Sorav,2026-05-24,Flipkart,WEEKEND PHILIPS- PQT8100( FLIPKART),90,10,OVR-00514,Sorav,0,2026-05,May 2026,Sunday
+Sorav,2026-05-25,Flipkart,PHILIPS- PQT8100( FLIPKART),101,14,OVR-00515,Sorav,0,2026-05,May 2026,Monday
+Sorav,2026-05-26,Flipkart,PHILIPS- PQT8100( FLIPKART),68,8,OVR-00516,Sorav,0,2026-05,May 2026,Tuesday
+Sorav,2026-05-30,Flipkart,WEEKEND PHILIPS- PQT8100( FLIPKART),80,11,OVR-00517,Sorav,0,2026-05,May 2026,Saturday

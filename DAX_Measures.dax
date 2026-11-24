@@ -1,0 +1,235 @@
+// ==============================================================================
+// SKYWORTH & PHILIPS TV REVIEW OPERATIONS - DAX MEASURES LIBRARY
+// Enterprise Power BI Data Model
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// FOLDER: 1. Executive KPIs & Calling Operations
+// ------------------------------------------------------------------------------
+
+Total Calling Days (Chandni) = 
+CALCULATE(
+    DISTINCTCOUNT('Fact_DailyCallingOverview'[Date]),
+    'Fact_DailyCallingOverview'[Is_User_Portfolio] = 1
+)
+
+Calling Time Period Start = 
+MIN('Fact_DailyCallingOverview'[Date])
+
+Calling Time Period End = 
+MAX('Fact_DailyCallingOverview'[Date])
+
+Total Calls (Overview) = 
+SUM('Fact_DailyCallingOverview'[Calls])
+
+Total Calls (Chandni) = 
+CALCULATE(
+    SUM('Fact_DailyCallingOverview'[Calls]),
+    'Fact_DailyCallingOverview'[Is_User_Portfolio] = 1
+)
+
+Avg Daily Calls = 
+DIVIDE([Total Calls (Chandni)], [Total Calling Days (Chandni)], 0)
+
+Total Detailed Call Logs = 
+COUNTROWS('Fact_Calls')
+
+Calls Connected = 
+CALCULATE(
+    COUNTROWS('Fact_Calls'),
+    'Fact_Calls'[Call_Category] = "Connected"
+)
+
+Calls Busy / Unreachable = 
+CALCULATE(
+    COUNTROWS('Fact_Calls'),
+    'Fact_Calls'[Call_Category] = "Not Connected"
+)
+
+Call Pick Rate % = 
+DIVIDE([Calls Connected], [Total Detailed Call Logs], 0)
+
+Language Barrier Calls = 
+CALCULATE(
+    COUNTROWS('Fact_Calls'),
+    'Fact_Calls'[Call_Category] = "Language Barrier"
+)
+
+// ------------------------------------------------------------------------------
+// FOLDER: 2. Reviews & CSAT Analytics
+// ------------------------------------------------------------------------------
+
+Total Reviews (All Agents) = 
+COUNTROWS('Fact_Reviews')
+
+Total Reviews (Chandni) = 
+CALCULATE(
+    COUNTROWS('Fact_Reviews'),
+    'Fact_Reviews'[Effective_Agent] = "Chandni"
+)
+
+Reviews - Flipkart = 
+CALCULATE(
+    [Total Reviews (Chandni)],
+    'Fact_Reviews'[Platform] = "Flipkart"
+)
+
+Reviews - Amazon = 
+CALCULATE(
+    [Total Reviews (Chandni)],
+    'Fact_Reviews'[Platform] = "Amazon"
+)
+
+Review Conversion Rate % = 
+DIVIDE([Total Reviews (Chandni)], [Calls Connected], 0)
+
+CSAT Rating % (5-Star) = 
+DIVIDE(
+    CALCULATE(COUNTROWS('Fact_Reviews'), 'Fact_Reviews'[Rating] = 5),
+    COUNTROWS('Fact_Reviews'),
+    1.0
+)
+
+Avg Rating Score = 
+AVERAGE('Fact_Reviews'[Rating])
+
+// ------------------------------------------------------------------------------
+// FOLDER: 3. Customer Issues & Quality (Flipkart-Philips + Added Issues)
+// ------------------------------------------------------------------------------
+
+Total Customer Issues = 
+COUNTROWS('Fact_CustomerIssues')
+
+Base Customer Issues = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    'Fact_CustomerIssues'[Is_Added_Issue] = "No"
+)
+
+User Added Issues = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    'Fact_CustomerIssues'[Is_Added_Issue] = "Yes (User Added)"
+)
+
+Product Complaints = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    'Fact_CustomerIssues'[Responsible_Department] = "Product Issue"
+)
+
+Service Complaints = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    'Fact_CustomerIssues'[Responsible_Department] = "Service Issue"
+)
+
+Remote Complaints = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    CONTAINSSTRING(LOWER('Fact_CustomerIssues'[Issue_Description]), "remote")
+)
+
+Installation Complaints = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    CONTAINSSTRING(LOWER('Fact_CustomerIssues'[Issue_Description]), "installation")
+)
+
+Wall Mount Complaints = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    CONTAINSSTRING(LOWER('Fact_CustomerIssues'[Issue_Description]), "wall mount")
+)
+
+Customer Issues Resolved = 
+CALCULATE(
+    COUNTROWS('Fact_CustomerIssues'),
+    'Fact_CustomerIssues'[Status] IN {"Resolved", "Closed"}
+)
+
+Issue Resolution Rate % = 
+DIVIDE([Customer Issues Resolved], [Total Customer Issues], 0)
+
+// ------------------------------------------------------------------------------
+// FOLDER: 4. Email Support Operations
+// ------------------------------------------------------------------------------
+
+Total Emails Handled = 
+COUNTROWS('Fact_EmailSupport')
+
+B2B & B2C Emails Handled = 
+CALCULATE(
+    COUNTROWS('Fact_EmailSupport'),
+    'Fact_EmailSupport'[Is_B2B_B2C] = "Yes"
+)
+
+B2B Corporate Inquiries = 
+CALCULATE(
+    COUNTROWS('Fact_EmailSupport'),
+    'Fact_EmailSupport'[Category] = "B2B Corporate"
+)
+
+B2C Direct Consumer Inquiries = 
+CALCULATE(
+    COUNTROWS('Fact_EmailSupport'),
+    'Fact_EmailSupport'[Category] = "B2C Direct Consumer"
+)
+
+General Customer Support Emails = 
+CALCULATE(
+    COUNTROWS('Fact_EmailSupport'),
+    'Fact_EmailSupport'[Is_B2B_B2C] = "No"
+)
+
+Avg Email Resolution Hours = 
+AVERAGE('Fact_EmailSupport'[Resolution_Hours])
+
+Email SLA Compliance % = 
+DIVIDE(
+    CALCULATE(COUNTROWS('Fact_EmailSupport'), 'Fact_EmailSupport'[Resolution_Hours] <= 24),
+    COUNTROWS('Fact_EmailSupport'),
+    0
+)
+
+// ------------------------------------------------------------------------------
+// FOLDER: 5. Voucher Budget & ROI
+// ------------------------------------------------------------------------------
+
+Total Vouchers In Inventory = 
+COUNTROWS('Fact_Coupons')
+
+Vouchers Issued / Shared = 
+CALCULATE(
+    COUNTROWS('Fact_Coupons'),
+    'Fact_Coupons'[Voucher_Status] = "Issued / Shared"
+)
+
+Vouchers Available In Stock = 
+CALCULATE(
+    COUNTROWS('Fact_Coupons'),
+    'Fact_Coupons'[Voucher_Status] = "Available Inventory"
+)
+
+Total Voucher Spend = 
+CALCULATE(
+    SUM('Fact_Coupons'[Amount]),
+    'Fact_Coupons'[Voucher_Status] = "Issued / Shared"
+)
+
+Flipkart Gift Card Spend = 
+CALCULATE(
+    SUM('Fact_Coupons'[Amount]),
+    'Fact_Coupons'[Platform] = "Flipkart",
+    'Fact_Coupons'[Voucher_Status] = "Issued / Shared"
+)
+
+Amazon Prime Voucher Spend = 
+CALCULATE(
+    SUM('Fact_Coupons'[Amount]),
+    'Fact_Coupons'[Platform] = "Amazon",
+    'Fact_Coupons'[Voucher_Status] = "Issued / Shared"
+)
+
+Cost Per Generated Review = 
+DIVIDE([Total Voucher Spend], [Total Reviews (Chandni Portfolio)], 0)
